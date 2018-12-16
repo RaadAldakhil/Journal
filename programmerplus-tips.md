@@ -92,10 +92,10 @@ Simple and Powerful: Do It!
 3. **Build Great Apps** - You can build great mobile or web apps and charge users for some service or value your app provides. [Google Play](https://play.google.com/apps/publish/signup/) [Apple App Store](https://developer.apple.com/ios/submit/)
 4. **Programming Contest** - There are websites which provide online contests, you can participate in these websites and make some money. [TopCoder](topcoder.com) [HackerRank](hackerrank.com) [CodeChef](codechef.com)
 5. **Build a Website** - You can share your programming idea and tips through your website. In fact you are branding yourself. You will get lots of reach in between programmers.
-  1. Online Services
-  2. Online Consultation
-  3. Google Adsense
-  4. Ads
+    * Online Services
+    * Online Consultation
+    * Google Adsense
+    * Ads
 
 ***
 
