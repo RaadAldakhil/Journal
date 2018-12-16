@@ -35,7 +35,7 @@ Taken from Sophia Chua-Rubenfeld, daughter of the Tiger Mother
 22. Do all the practice problems. This one is totally tiger mom.
 23. People are often contemptuous of rote learning. Newsflash: even at great intellectual bastions like Harvard, you will be required to memorize formulas, names and dates. **To memorize effectively:** stop reading your list over and over again. It doesn't work. Say it out loud, write it down. Remember how you made friends? Have them quiz you, then return the favor.
 24. Again with the friends: ask them to listen while you explain a difficult concept to them. This forces you to articulate your understanding. Remember, vague is bad.
-25. **Go for the big picture.** Try to figure out where a specific concept fits into the course as a whole. This will help you tap into Big Themes — every class has Big Themes — which will streamline what you need to know. You can learn a million facts, but until you understand how they fit together, you're missing the point. 
+25. **Go for the big picture.** Try to figure out where a specific concept fits into the course as a whole. This will help you tap into Big Themes — every class has Big Themes — which will streamline what you need to know. You can learn a million facts, but until you understand how they fit together, you're missing the point.
 
 ###Phase V: Exam Day
 26. Crush exam. Get A.
