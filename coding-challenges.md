@@ -291,7 +291,7 @@
 
 8. **Hungry for More?**
 
-Below is a small list of websites that contain additional Challenges:
+    Below is a small list of websites that contain additional Challenges:
 
   * [HackerRank](https://www.hackerrank.com/)
 
