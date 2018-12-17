@@ -273,6 +273,7 @@
 6. **Resources:**
 
     {Wikipedia, Stack Overflow, Google}
+    
     Seriously, this is all you'll ever need. If you aren't getting results, you aren't doing your research properly. With these three websites, you'll find your answers. If they don't exist, make a thread. By doing so, you help other people out too!
 
     Remember: If you make a new topic for a new problem anywhere, write down the solution if someone PM'd you. It helps people a lot and encourages them to do the same.
