@@ -180,7 +180,7 @@
 82. (Medium) Write an Interprested LISP-like Programming Language
 83. (Difficult) Write an application that is capable of mounting filesystems from other OSes using the FUSE model
 84. (Medium) Universal Asynchronous Receiver/Transmitter(UART) Game(in assembly)
-85. (Difficult) Pong Game as a UEFI file in color ([Hinst](http://rodsbooks.com/efi-programming/index.html))
+85. (Difficult) Pong Game as a UEFI file in color ([Hint](http://rodsbooks.com/efi-programming/index.html))
 86. (Difficult) Design an Esoteric Language
 87. (Difficult) C Compiler
 88. (Difficult) Turing Machine Simulator
@@ -210,7 +210,7 @@
 112. (Difficult) First-Person Engine in OpenGL(Walking, Looking Around, Jumping on Obstacles)(BONUS: VR Compatibility)
 113. (Medium) Shuffle a Deck of Cards
 114. (Medium) Simulate a game of Tag using a multi-agent system
-115. (Difficult) Wolfenstein Clone(FPS, two-dimentional map that appears to be 3-D)(If you need a starting point, search for [bisquit's video](https://www.youtube.com/watch?v=HQYsFshbkYw) about DOOM-like Engines)
+115. (Difficult) Wolfenstein Clone(FPS, two-dimentional map that appears to be 3-D)(If you need a starting point, search for [Bisqwit's video](https://www.youtube.com/watch?v=HQYsFshbkYw) about DOOM-like Engines)
 116. (Medium) Scorched Earth Clone
 117. (Medium) Minesweeper
 118. (Medium) An Audio/Visual 64KB Demonstration
@@ -243,38 +243,47 @@
 145. (Easy) ASCII Digital Clock
 
 ### HOW-TO Guide
-0. **Use fit and an external website to push on**
+0. **Use git and an external website to push on:**
+
 Learn to use git and commit early and often. Optionally, use a website to push your work to (such as GitHub). The most important thing is to build a portfolio.
-1. **Understand the problem**
+1. **Understand the problem:**
+
 Do your own research. It's an incredibly useful skill which can be applied to and can be applied to anything else.
 If a problem seems difficult, good! Draw it out, write it out, do whatever you need to do to solve it.
 If the problem you're solving is too easy, brainstorm and try adding additional functionality. Try combining it with other ideas to make your software more challenging.
-2. **Implementation**
+2. **Implementation:**
+
 Take the language you're most familiar with to start your project. If the problem is too easy, pick a language you've never used. Don't be afraid to write awful code and don't worry about the best implementation. Get a working implementation first, then refactor and clean it up.
-3. **Test**
+3. **Test:**
+
 Write test cases for your program. Get used to thinking about how you can break your software. Find problems, bugs, and fix them. Repeat over and over again and document it. Throw it together in your portfolio(don't forget to commit!).
-4. **Re-Implement**
+4. **Re-Implement:**
+
 Now that you have something together with lots of documentation and experience, try a different language and try to match it as closely as possible to your first implementation. Add features, try new techniques, new styles. Go crazy!
-5. **Don't stop learning**
+5. **Don't stop learning:**
+
 Now that you've gotten this far, don't stop trying to challenge yourself. Keep a portfolio/blog/diary and keep adding to it.
-6. **Resources**
+6. **Resources:**
+
 {Wikipedia, Stack Overflow, Google}
 Seriously, this is all you'll ever need. If you aren't getting results, you aren't doing your research properly. With these three websites, you'll find your answers. If they don't exist, make a thread. By doing so, you help other people out too!
 
 Remember: If you make a new topic for a new problem anywhere, write down the solution if someone PM'd you. It helps people a lot and encourages them to do the same.
-7. **Literature**
+7. **Literature:**
+
 *Knuth:* The Art of Computer Programming
 *Siena:* The Algorithm Design Manual
 *Carmen et al:* Introduction to Algorithms
 *Russel:* Artificial Interlligence: A Modern Approach
 *Abel son:* Structure and INterpretation of Computer Programs
 8. **Hungry for More?**
+
 Below is a small list of websites that contain addictional Challenges
-[HackerRank](https://www.hackerrank.com/)
-[CodeChef](https://www.codechef.com/)
-[CofeFights](https://codesignal.com/)
-[ProjectEuler](https://projecteuler.net/)
-[RosettaCode](http://rosettacode.org/wiki/Rosetta_Code)
-[CodeAbbey](https://www.codeabbey.com/)
-[CodingBat](https://codingbat.com/)
-[ProgrammingPraxis](https://programmingpraxis.com/)
+* [HackerRank](https://www.hackerrank.com/)
+* [CodeChef](https://www.codechef.com/)
+* [CofeFights](https://codesignal.com/)
+* [ProjectEuler](https://projecteuler.net/)
+* [RosettaCode](http://rosettacode.org/wiki/Rosetta_Code)
+* [CodeAbbey](https://www.codeabbey.com/)
+* [CodingBat](https://codingbat.com/)
+* [ProgrammingPraxis](https://programmingpraxis.com/)
