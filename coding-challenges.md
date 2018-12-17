@@ -291,20 +291,20 @@
 
 8. **Hungry for More?**
 
-  Below is a small list of websites that contain additional Challenges:
+Below is a small list of websites that contain additional Challenges:
 
-    * [HackerRank](https://www.hackerrank.com/)
+  * [HackerRank](https://www.hackerrank.com/)
 
-    * [CodeChef](https://www.codechef.com/)
+  * [CodeChef](https://www.codechef.com/)
 
-    * [CofeFights](https://codesignal.com/)
-    
-    * [ProjectEuler](https://projecteuler.net/)
+  * [CofeFights](https://codesignal.com/)
 
-    * [RosettaCode](http://rosettacode.org/wiki/Rosetta_Code)
+  * [ProjectEuler](https://projecteuler.net/)
 
-    * [CodeAbbey](https://www.codeabbey.com/)
+  * [RosettaCode](http://rosettacode.org/wiki/Rosetta_Code)
 
-    * [CodingBat](https://codingbat.com/)
+  * [CodeAbbey](https://www.codeabbey.com/)
 
-    * [ProgrammingPraxis](https://programmingpraxis.com/)
+  * [CodingBat](https://codingbat.com/)
+
+  * [ProgrammingPraxis](https://programmingpraxis.com/)
