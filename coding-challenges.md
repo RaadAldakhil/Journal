@@ -292,6 +292,7 @@
 8. **Hungry for More?**
 
   Below is a small list of websites that contain additional Challenges:
+  
     * [HackerRank](https://www.hackerrank.com/)
     * [CodeChef](https://www.codechef.com/)
     * [CofeFights](https://codesignal.com/)
