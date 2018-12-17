@@ -1,4 +1,11 @@
-# 4chan  Challenges
+# Coding Challenges
+
+##Cracking the coding interview
+
+
+***
+
+## 4chan  Challenges
 
 ### Ultra Easy Questions:
 1. Print out your name on the screen.
@@ -85,9 +92,10 @@
 16. You are taken prisoner before you can arrange a code with your family. To torture you, you get to choose tomorrow's winning lottery numbers, and you get to email your family, but your email is proofread (and censored if needed) by a bunch of smart people. Now do you get the numbers out?
 (Questions 1-12 have optimum/exact answers. Questions 13-14 have multiple comet answers. Questions 15-16 are open ended. Nearly all of these questions come from the internet. Thanks internet)
 
+***
 
-# Pro/g/ramming Challenges, v4.0
-## Four degrees of difficulty (Easy) (Medium) (Difficult) (Fuck You)
+## Pro/g/ramming Challenges, v4.0
+### Four degrees of difficulty (Easy) (Medium) (Difficult) (Fuck You)
 ### Categories:
 #### Practical: 1-43, 135-139, 140-144
 #### Algorithmic: 44-69, 134
@@ -273,7 +281,7 @@
 6. **Resources:**
 
     {Wikipedia, Stack Overflow, Google}
-    
+
     Seriously, this is all you'll ever need. If you aren't getting results, you aren't doing your research properly. With these three websites, you'll find your answers. If they don't exist, make a thread. By doing so, you help other people out too!
 
     Remember: If you make a new topic for a new problem anywhere, write down the solution if someone PM'd you. It helps people a lot and encourages them to do the same.
