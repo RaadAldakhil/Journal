@@ -133,7 +133,7 @@
 27. (Difficult) Create a Torrent Client(CLI or GUI)
 28. (Difficult) Booru Client
 29. (Medium) Key Press Bot
-30. IP/URL [Obsucrification](http://www.pc-help.org/obscure.htm)
+30. (Medium) IP/URL [Obsucrification](http://www.pc-help.org/obscure.htm)
 31. (Medium) Radix Base Converter(Given a radix base, convert it to decimal)
 32. (Difficult) Chan aggregator(Let's user view various boards from different 'chans')(Bonus: Add 4ChanX and Archiving Functionality)
 33. (Medium) Encrypt a File, and Upload it online
