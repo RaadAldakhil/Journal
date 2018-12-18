@@ -17,6 +17,7 @@ Be sure the lid fits tightly on the pot. Turn down the heat to its lowest settin
 Just before serving, gently fluff the rice with a fork to separate the grains. And after you've cooked up your perfect rice, might we suggest some chili to go with it?
 
 **Tip:** Don’t uncover the saucepan or stir the rice during cooking. If it’s done before you’re ready to serve it, place a folded towel over the saucepan, replace the lid, and set aside. The towel will absorb excess moisture and condensation, helping prevent overcooked and mushy rice.
+
 ***
 
 ### Cheddar Cheese Puffs
@@ -38,6 +39,7 @@ Add the eggs one at a time, stirring after each addition until the eggs are inco
 4. Stir in the grated cheese, thyme, and a few grinds of pepper.
 5. Scoop spoonfuls onto lined baking sheet: Heat oven to 425°F. Spoon out small balls (about a heaping tablespoon) of the dough onto a silicone or parchment lined baking sheet, with at least an inch separating the spoonfuls.
 6. Bake: Place in oven and cook for 10 minutes at 425°F. Lower heat to 350°F and cook for another 15-20 minutes, until puffed up and lightly golden.
+
 ***
 
 ### Basic houmous recipe
@@ -52,8 +54,8 @@ Add the eggs one at a time, stirring after each addition until the eggs are inco
 * Coriander or parsley leaves (optional)
 #### Instructions
 1. Rinse the chickpeas in cold water and tip into the food processor. Add the tahini, crushed garlic, salt, lemon juice and seven tablespoons of the reserved liquid from the cans. Turn on the food processor and slowly pour in the oil while it runs.
-
 2. When the mixture is fully combined and smooth, tip it into a serving dish. Drizzle with some more extra virgin olive oil and decorate with a few whole chickpeas. Sprinkle with paprika and finely chopped coriander or parsley leaves, for colour.
+
 ***
 
 ## Meat
@@ -78,6 +80,7 @@ Add the eggs one at a time, stirring after each addition until the eggs are inco
 5. Lower the heat so the sauce simmers and cover. Allow to cook for 30 minutes. If the sauce is too watery, remove the lid for the last 10 minutes of simmering so the liquid can reduce.
 6. In the meantime, cook the pasta in a big pot of boiling salted water.
 7. Serve the bolognese with the cooked spaghetti and a generous grating of Parmesan.
+
 ***
 
 ### Cheese-Stuffed Meatballs and Spaghetti
@@ -98,6 +101,7 @@ Add the eggs one at a time, stirring after each addition until the eggs are inco
 3. Meanwhile, pour remaining pasta sauce into 5-quart Dutch oven. Cover; heat to simmering over medium-high heat, stirring frequently. Gently stir in meatballs; reduce heat to medium-low. Cover; simmer about 10 minutes, stirring occasionally, until meatballs are thoroughly cooked and no longer pink in center.
 4. Meanwhile, cook and drain spaghetti as directed on package; keep warm.
 5. Serve meatballs and sauce over spaghetti. Serve with Parmesan cheese.
+
 ***
 
 ### Beef Fried Rice
@@ -124,6 +128,7 @@ Add the eggs one at a time, stirring after each addition until the eggs are inco
 3. Add garlic, ginger, clove and Thai pepper, fry for 30 seconds over slow fire until aroma. Place beef in. Do a quick fry for 20 seconds or until the beef changes the color. Transfer out immediately.
 4. Add carrot dices and red onion and fry until slightly soft. Place rice, beef and scrambled egg in. Add soy sauce and salt. Mix everything well.
 5. Add chopped green onion in and fry for several times. Serve warm.
+
 ***
 
 ### Italian Stuffed Flank Steak
@@ -153,6 +158,7 @@ Add the eggs one at a time, stirring after each addition until the eggs are inco
 11. Slide skillet into preheated oven and cook for about 8-10 minutes or until steak reaches desired doneness.
 12. Remove from oven, tent with aluminum foil and let rest for 5 minutes.
 13. Remove twine and toothpicks and enjoy!
+
 ***
 
 ### Bacon and Herbs Creamy Mashed Potatoes
@@ -175,6 +181,7 @@ Add the eggs one at a time, stirring after each addition until the eggs are inco
 5. Drain water out of the potatoes.
 6. Add butter, milk, bacon grease and some salt. Start mashing slowly and watch out for splatter. Mash until all smooth.
 7. Crumble crispy bacon strips and add them to the potatoes. Add minced herbs and fold it all into mashed potatoes. Taste to see if you need to add more salt.
+
 ***
 
 ## Poultry
@@ -196,6 +203,7 @@ Add the eggs one at a time, stirring after each addition until the eggs are inco
 2. In a shallow pan or bowl, drizzle olive oil over the chicken and sprinkle with seasoning, turning to coat both sides.
 3. In a small jar or bowl, whisk melted butter, mustard, honey, Worcestershire, seasoning and herbs until emulsified.
 4. Grill until chicken is almost cooked through, then brush both sides with honey mustard sauce, and continue grilling until chicken is cooked through. I usually grill my chicken about 8 minutes per side, but cooking time will depend on the thickness of the chicken and heat of the grill.
+
 ***
 
 ### Creamy Chicken Enchiladas
@@ -215,6 +223,7 @@ Add the eggs one at a time, stirring after each addition until the eggs are inco
 2. In a frying pan melt butter and saute the onions and green chilies. Over medium heat mix in cream cheese, 1/2 cup Mexican style shredded cheese and salsa. Once the cheese is melted, mix in the shredded chicken.
 3. Place about 3 Tb. of the chicken filling in a flour tortilla. Then roll it up like an enchilada and place in a 9×13 pan.
 4. Mix together El Pato Sauce and heavy whipping cream. Then pour the sauce over the enchiladas. Cover with remaining shredded cheese and place foil over pan. Bake at 350 for 20 min. Then bake 10 more minutes uncovered. Take it out when it’s nice and bubbly!
+
 ***
 
 ### Chicken Fried Rice
@@ -233,6 +242,7 @@ Serves: 3
 Prep:5min  ›  Cook:10min  ›  Ready in:15min
 1. In a small bowl, beat egg with water. Melt butter in a large frying pan over medium low heat. Allow the egg to cook without disturbing it for 1 to 2 minutes. Remove from frying pan and cut into thin strips.
 2. Heat oil in same frying pan; add onion and saute until soft. Then add rice, soy sauce, pepper and chicken. Stir fry together for about 5 minutes, then stir in egg. Serve hot.
+
 ***
 
 ### Chili Marmalade Baked Chicken
@@ -254,6 +264,7 @@ Prep:5min  ›  Cook:10min  ›  Ready in:15min
 2. Arrange the chicken pieces in an oven safe baking dish. I like to use my Le Creuset Enameled Cast-Iron 3-1/2-Quart Round Braiser for this recipe. Salt and pepper the tops of the chicken according to your personal preference.
 
 3. Pour the marmalade mixture on top of the chicken. Bake the chicken covered at 400°F for 20 minutes. Then remove the cover, baste the chicken with the sauce, and continue to cook for an additional 20 - 30 minutes uncovered, or until the chicken is browned on top and cooked through.
+
 ***
 
 ### Chili's Chicken Enchilada Soup
@@ -294,9 +305,11 @@ Note: click on times in the instructions to start a kitchen timer while cooking.
 10. Add in the cream cheese and cheddar cheese and stir well until melted.
 11. Add the topping ingredients, except for the cotija cheese into a bowl together and stir.
 12. Top the soup with some of the tomato mixture and some crumbled cheese.
+
 ***
 
 ## Fish
+
 ***
 
 ## Desserts
@@ -321,4 +334,5 @@ Note: click on times in the instructions to start a kitchen timer while cooking.
 **Once you're ready to serve, add the topping as follows:**
 1. Spread each pancake with a generous amount of Nutella, spoon the whipped cream in a long line down the middle and add the strawberries on top then fold the sides of the pancake to the middle.
 2. Best served on slightly warm pancakes (not too hot or the cream will melt)
+
 ***
