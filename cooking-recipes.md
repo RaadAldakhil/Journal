@@ -4,6 +4,7 @@ Compilation of recipes.
 ***
 
 ***
+
 ## Vegetarian
 ### Fluffy Rice
 1. **Boil water and add salt**
