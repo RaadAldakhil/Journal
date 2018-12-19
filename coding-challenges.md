@@ -1,6 +1,6 @@
 # Coding Challenges
 
-##Cracking the coding interview
+## Cracking the coding interview
 ### 1 Arrays and Strings
 1. Is Unique: Implement an algorithm to determine if a string has all unique characters. What if you
 cannot use additional data structures?
@@ -763,7 +763,7 @@ Output:
 ID1, ID2 : SIMILARITY
 13, 19 : 0.1
 13, 16 : 0.25
-19, 24 : 0.14285714285714285 
+19, 24 : 0.14285714285714285
 ***
 
 ## 4chan  Challenges
