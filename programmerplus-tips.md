@@ -68,6 +68,43 @@ This is a collection of tips and notes with intent of helping programmers become
 
 ***
 
+### How to Write Clean & Maintainable Code
+1. **YAGNI:** You Aren't Gonna Need It (YAGNI) is a principle of extreme programming (XP) that states a programmer should not add functionality until deemed necessary.
+2. **DRY:** Don't Repeat Yourself (DRY) is a principle of software development aimed at reducing repetition of software patterns, replacing it with abstractions or using data normalization to avoid redundancy.
+3. **KISS:** Keep It Simple, Stupid (KISS) as a design principle states that most systems work best if they are kept simple rather than made complicated; therefore simplicity should be a key goal in design, and that unnecessary complexity should be avoided.
+4. **Commenting:** Writing useful and necessary comments will help your code to be more clean.
+
+***
+
+### Data Structures Basics
+Data Structures are the programmatic way of storing data so that data can be used efficiently. Almost every enterprise application uses various types of data structures in one or the other way.
+1. **Built-in Data Type:** Those data types for which a language has built-in support are known as Built-in Data types. For example, most of the languages provide the following built-in data types. *[Integers, Boolean (true, false), Floating (Decimal numbers), Character and Strings]*
+2. **Derived Data Type:** Those data types which are implementation independent as they can be implemented in one or the other way are known as derived data types. These data types are normally built by the combination of primary or built-in data types and associated operations on them. *[Array, List, Stack, Queue]*
+3. **Array:** Array is a container which can hold a fix number of items and these items should be of the same type. Most of the data structures make use of arrays to implement their algorithms.
+
+  Each location of an element in an array has a numerical index, which is used to identify the element. Index starts with 0.
+4. **Linked List:** A linked list is a sequence of data structures, which are connected together via links. Linked List is a sequence of links which contains items. Each link contains a connection to another link. Linked list is the second most-used data structure after array. Following are the various types of linked list: *[Simple Linked List, Doubly Linked List, Circular Linked List ]*
+5. **Stack:** A stack is an abstract data type that serves as a collection of elements, with two principal operations: push, which adds an element to the collection, and pop, which removes the most recently added element that was not yet removed. *[LIFO  (Last-in-first-out) or FILO  (First-in-last-out)]*
+6. **Queue:** Unlike stacks, a queue is open at both its ends. One end is always used to insert data (enqueue) and the other is used to remove data (dequeue) *[LILO (Last in Last out) or FIFO (First in First out)]*
+
+***
+
+### Core Functional Programming Concepts
+1. **Functions are Pure!:** functions are pure in the sense that they abide by two restrictions:
+    1. A function called multiple times with the same arguments will always return the same value.
+    2. No side effects occult. throughout the function's execution.
+2. **Variables are Immutable!:** In functional programming, you can't modify a variable after it's been initialized.
+3. **Functions have Referential Trancparency!:** If you can replace the value of a function call with its return Value everywhere that it's called and the state of the program stays the same, then the function is referentially transparent.
+4. **Functions are First-Class & can be Higher-Order:** For a function to be first-class, you just have to be able to set it to a variable.
+Higher-order functions build off of this concept of "functions as first-class citizens" and are defined as functions that either accept another function as an argument, or that return a function themselves.
+5. **Functional Programming is Based on Lambda Calculus:** Functional programming is heavily rooted in a mathematical system called lambda calculus. Two core concepts of lambda calculus that really shaped the structure of how factional programming works:
+    1. In lambda calculus, all functions can be
+    written anonymously without a name
+    2. When invoked, all functions will go through a process called currying
+
+
+***
+
 ### Basic Concepts of OOP (Object Oriented Programming)
 1. **Class:** The class is a model or blueprint or prototype of an object that defines or specifies all the properties & behavior of the objects.
 2. **Abstraction:** Abstraction means hiding the implementation and showing only functionality to the user.
