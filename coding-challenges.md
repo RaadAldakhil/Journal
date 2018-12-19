@@ -544,8 +544,7 @@ mapping of family -> 1, person ->2, firstName -> 3, lastName -> 4, state
 Becomes:
 1 4 McDowell 5 CA 0 2 3 Gayle 0 Some Message 0 0
 Write code to print the encoded version of an XML element (passed in Element and Attribute
-objects).
-```
+objects). ```
 13. Bisect Squares: Given two squares on a two-dimensional plane, find a line that would cut these two
 squares in half. Assume that the top and the bottom sides of the square run parallel to the x-axis.
 14. Best Line: Given a two-dimensional graph with points on it, find a line which passes the most
