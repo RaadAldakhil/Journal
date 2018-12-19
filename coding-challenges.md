@@ -485,7 +485,8 @@ could potentially occur if all the philosophers reached for the left chopstick a
 threads and locks, implement a simulation of the dining philosophers problem that prevents deadlocks.
 4. Deadlock-Free Class: Design a class which provides a lock only if there are no possible deadlocks.
 5. Call In Order: Suppose we have the following code:
-```Java
+
+```java
 public class Foo {
 public Foo() { ... }
 public void first() { ... }
@@ -493,6 +494,7 @@ public void second() { ... }
 public void third() { ... }
 }
 ```
+
 The same instance of Foo will be passed to three different threads. ThreadA will call first,
 threads will call second, and thread( will call third. Design a mechanism to ensure that
 first is called before second and second is called before third.
@@ -537,11 +539,13 @@ Value --> string value
 For example, the following XML might be converted into the compressed string below (assuming a
 mapping of family -> 1, person ->2, firstName -> 3, lastName -> 4, state
 -> 5).
+
 ```html
 <family lastName="McDowell" state="CA">
 <person firstName="Gayle">Some Message</person>
 </family>
 ```
+
 Becomes:
 1 4 McDowell 5 CA 0 2 3 Gayle 0 Some Message 0 0
 Write code to print the encoded version of an XML element (passed in Element and Attribute
@@ -677,12 +681,14 @@ Output: 5
 distance (in terms of number of words) between them in the file. If the operation will be repeated
 many times for the same file (but different pairs of words), can you optimize your solution?
 12. BiNode: Consider a simple data structure called BiNode, which has pointers to two other nodes.
-```java 
+
+```java
 public class BiNode {
   public BiNode nodel, node2;
   public int data;
 }
 ```
+
 The data structure BiNode could be used to represent both a binary tree (where nodel is the left
 node and node2 is the right node) or a doubly linked list (where node1 is the previous node and
 node2 is the next node). Implement a method to convert a binary search tree (implemented with
