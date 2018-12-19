@@ -3,6 +3,81 @@ This is a collection of tips and notes with intent of helping programmers become
 
 ***
 
+### Time Management Tips
+1. Have a plan!
+2. Prioritize Tasks!
+3. Divide larger tasks!
+4. Delegate if needed!
+5. Cultivate Discipline!
+6. Be wary of multitasking!
+7. Plan daily downtime!
+
+***
+
+### Bad Habits To Avoid as a Programmer
+1. Not taking enough break!
+2. Refusing to ask for help!
+3. Writing dirty code!
+4. Bad work/life balance!
+5. Not learning from mistakes!
+6. Giving up too soon!
+7. Not taking constructive criticism!
+
+***
+
+### Algorithms Every Programmer Should Know
+1. **Sort Algorithins:** Sorting is the one of most heavily studied concepts in Computer Science. Idea is to arrange the items of a list in a specific order. Though every major programming language has built-in sorting libraries, it comes in handy if you know how they work. *[Merge Sort, Quick Sort, Bucket Sort, Heap Sort, Counting Sort, Insertion Sort]*
+2. **Search Algorithms:** This is another important category of algorithms which are essential for many real-world applications. There is fewer algorithms here, compare to sorting ones. *[Linear search, Binary Search, Depth First Search(DFS), Breadth First Search(BFS)]*
+3. **Hashing:** Hash lookup is currently the most widely used technique to find appropriate data by key or ID. We access data by its index. *[Hash Map, Hash Table, Dictionary]*
+4. **Dynamic Programming:** Dynamic programming (DP) is a method for solving a complex problem by breaking it down into simpler subproblems. We solve the subproblems, remember their results and using them we make our way to solve the complex problem, quickly. *[Duckworth-Lewis method, Floyd's All-Pairs shortest path algorithm]*
+5. **String Matching & Parsing:** Pattern matching/searching is one of the most important problem in Computer Science. There have been a lot of research on the topic. *[KMP Algorithm (String Matching), Regular Expression (String Parsing)]*
+
+***
+
+### Golden Rules for Becoming a Better ProgrammerPlus
+1. Don't be afraid to ask for help!
+2. Don't repeat yourself!
+3. Share knowledge with others!
+4. Name identifiers to say what they are for!
+5. Don't use magic number or string literals!
+6. Follow the Convention!
+7. Read other people's code!
+
+***
+
+### Most Popular Programming Paradigms
+1. **Object-Oriented Programming (00P):** Object-oriented programming is a programming paradigm based on the concept of "objects", which may contain data, in the form of fields, often known as properties; and code, in the form of procedures, often known as methods.
+2. **Functional Programming:**  Functional programming is a programming paradigm of building the structure and elements of computer programs that treats computation as the evaluation of mathematical functions and avoids changing-state and mutable data.
+3. **Structured Programming:** Structured programming is a programming paradigm aimed at improving the clarity, quality, and development time of a computer program by making extensive use of the structured control flow constructs of selection and repetition, block structures and subroutines.
+4. **Procedural Programming:** Procedural programming is a programming paradigm, derived from structured programming, based upon the concept of the procedure call. Procedures, also known as routines or functions, simply contain a series of computational steps to be carried out.
+5. **Imperative Programming:** Imperative programming is a programming paradigm that uses statements that change a program's state. In much the same way that the imperative mood in natural languages expresses commands, an imperative program consists of commands for the computer to perform.
+6. **Declarative Programming:** Declarative programming is a programming paradigm of building the structure and elements of computer programs that expresses the logic of a computation without describing its control flow.
+7. **Event-driven Programming:** Event-driven programming is a programming paradigm in which the flow of the program is determined by events such as user actions, sensor outputs, or messages from other programs/threads.
+8. **Aspect-oriented Programming:** Aspect-oriented programming is a programming paradigm that aims to increase modularity by allowing the separation of cross-cutting concerns.
+
+***
+
+### Subjects Software Developers Should Know
+1. **Object Oriented Analysis & Design:** For better maintainability, reusability and faster development, the most well accepted approach, shortly GOAD and its SOLID principals are very important for software development.
+2. **Design Patterns:** Design patterns are standard and most effective solutions for specific problems. If you don't want to reinvent the wheel, you should learn them.
+3. **Data Structures & Algorithms:** Data structures like array, list, stack, tree and useful algorithms are vital for software development.
+4. **Operating Systems Basics:** By learning OS basics, we can have better vision, viewpoints and performance for your applications.
+5. **Network Basics:** Network is related to computer organization, OS and the whole information transfer process. In some cases you'll face it in the development cycle. So, it's important to learn network basics.
+6. **Software Testing:** Testing is an important part of software engineering. Unit testing, its best practices and techniques like black box, white box, mocking, TDD and integration testing are subjects whic must be known.
+7. **Version Control System:** VCS tools are very important by saving so much time for collaborative works and versioning.
+
+***
+
+### Basic Concepts of OOP (Object Oriented Programming)
+1. **Class:** The class is a model or blueprint or prototype of an object that defines or specifies all the properties & behavior of the objects.
+2. **Abstraction:** Abstraction means hiding the implementation and showing only functionality to the user.
+3. **Object:** An object is an entity or instance of a class. Each object has properties and behaviors.
+4. **Encapsulation:** Encapsulation is the process of binding the data by making it private and functions to process that data into a single unit.
+5. **Inheritance:** Inheritance is the process of acquiring or sharing the properties and behaviors of the base class into the sub class to achieve reusability.
+6. **Polymorphism:** Polymorphism refers to the ability to process objects differently depending on their data type or class.
+
+***
+
 ### Ways to stay motivated while learning to code
 1. **Starts Small!** - Learning code can be a daunting task to many, but one of the most helpful ways to learn and stay engaged it is to start small.
 2. **Celebrate the Little Things!** - Learning to code gives you the tools to build things that can potentially change the world. Build things, test what you learned, and keep going at it.

@@ -486,17 +486,17 @@ threads and locks, implement a simulation of the dining philosophers problem tha
 4. Deadlock-Free Class: Design a class which provides a lock only if there are no possible deadlocks.
 5. Call In Order: Suppose we have the following code:
 
-```java
-public class Foo {
-public Foo() { ... }
-public void first() { ... }
-public void second() { ... }
-public void third() { ... }
-}
-```
-The same instance of Foo will be passed to three different threads. ThreadA will call first,
-threads will call second, and thread( will call third. Design a mechanism to ensure that
-first is called before second and second is called before third.
+    ```java
+    public class Foo {
+    public Foo() { ... }
+    public void first() { ... }
+    public void second() { ... }
+    public void third() { ... }
+    }
+    ```
+    The same instance of Foo will be passed to three different threads. ThreadA will call first,
+    threads will call second, and thread( will call third. Design a mechanism to ensure that
+    first is called before second and second is called before third.
 {:start="6"}
 6. Synchronized Methods: You are given a class with synchronized method A and a normal method
 B. If you have two threads in one instance of a program, can they both execute A at the same time?
@@ -540,14 +540,14 @@ For example, the following XML might be converted into the compressed string bel
 mapping of family -> 1, person ->2, firstName -> 3, lastName -> 4, state
 -> 5).
 
-```html
-<family lastName="McDowell" state="CA">
-<person firstName="Gayle">Some Message</person>
-</family>
-```
-Becomes:
-1 4 McDowell 5 CA 0 2 3 Gayle 0 Some Message 0 0
-Write code to print the encoded version of an XML element (passed in Element and Attribute objects).
+    ```xml
+    <family lastName="McDowell" state="CA">
+    <person firstName="Gayle">Some Message</person>
+    </family>
+    ```
+    Becomes:
+    1 4 McDowell 5 CA 0 2 3 Gayle 0 Some Message 0 0
+    Write code to print the encoded version of an XML element (passed in Element and Attribute objects).
 {:start="13"}
 13. Bisect Squares: Given two squares on a two-dimensional plane, find a line that would cut these two
 squares in half. Assume that the top and the bottom sides of the square run parallel to the x-axis.
@@ -681,17 +681,17 @@ distance (in terms of number of words) between them in the file. If the operatio
 many times for the same file (but different pairs of words), can you optimize your solution?
 12. BiNode: Consider a simple data structure called BiNode, which has pointers to two other nodes.
 
-```java
-public class BiNode {
-  public BiNode nodel, node2;
-  public int data;
-}
-```
- The data structure BiNode could be used to represent both a binary tree (where nodel is the left
-node and node2 is the right node) or a doubly linked list (where node1 is the previous node and
-node2 is the next node). Implement a method to convert a binary search tree (implemented with
-BiNode) into a doubly linked list. The values should be kept in order and the operation should be
-performed in place (that is, on the original data structure).
+    ```java
+    public class BiNode {
+      public BiNode nodel, node2;
+      public int data;
+    }
+    ```
+     The data structure BiNode could be used to represent both a binary tree (where nodel is the left
+    node and node2 is the right node) or a doubly linked list (where node1 is the previous node and
+    node2 is the next node). Implement a method to convert a binary search tree (implemented with
+    BiNode) into a doubly linked list. The values should be kept in order and the operation should be
+    performed in place (that is, on the original data structure).
 {:start="13"}
 13. Re-Space: Oh, no! You have accidentally removed all spaces, punctuation, and capitalization in a
 lengthy document. A sentence like "I reset the computer. It still didn't boot!"
