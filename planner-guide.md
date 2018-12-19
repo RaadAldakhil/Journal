@@ -67,8 +67,8 @@ When a new year comes I sit down and think about what I would like to achieve du
 
 These are my goals for 2015 for instance:
 
-<div class="highlight">
 
+```
     // I usually pick a theme for the year, month, week
     // this year I didn't, I think I had some uncertainty as to what
     // to choose since I had just moved to Stockholm and was starting a new job
@@ -114,13 +114,13 @@ These are my goals for 2015 for instance:
         - be more mindful and careful of how I spend my money
         - be smarter when paying things, take advantage of company offers,
           discounts, etc
+```
 
-</div>
 
 When a year finishes, I sit down, review the year and reflect about what I have achieved. I celebrate the stuff that I have done, learn from my mistakes and feel hopeful for the future. These are my reviews/reflections from 2014:
 
-<div class="highlight">
 
+```
     # 2014 - The Year in Which I Started My Own Company
 
     In summary:
@@ -190,15 +190,15 @@ When a year finishes, I sit down, review the year and reflect about what I have 
             - I need to continue reviewing my monthly costs and spendings
             - Make better use of the stuff that the
               company offers me -> phone, training, etc
+```
 
-</div>
 
 #### [](#quarterly-goals)Quarterly Goals
 
 After having set the yearly goals and painted how the year is going to look like, I drill down and become more specific/practical with quarterly goals:
 
-<div class="highlight">
 
+```
     ## Quarter By Quarter
     * Q1: Angular.JS and buffing up my knowledge for Active Solution (Jan, Feb, Mars)
         * AngularJS
@@ -217,8 +217,8 @@ After having set the yearly goals and painted how the year is going to look like
         * II: Focus a 100% on my company and develop a product (April, Maj, June)
     * Q3: Write a book javascriptmancy -> portal (July, Aug, Sep)
     * Q4: Learn Haskell and/or F# (Oct, Nov, Dec)
+```
 
-</div>
 
 I then divide the different monthly, weekly and daily goals into two subcategories, one is _home and life_ (the stuff that I do when I am not at work) and the other is _work_.
 
@@ -230,8 +230,8 @@ When I start a new month I review the past month, reflect and set 3 new goals fo
 
 These are my _Home and Life_ monthly goals for this month of June for instance:
 
-<div class="highlight">
 
+```
     # June 2015 *The month I took the 487 Certificate biatches!*
 
     ## Goals
@@ -241,13 +241,13 @@ These are my _Home and Life_ monthly goals for this month of June for instance:
 
     - Improve: Your exercise, concentration and level of energy at the gym
     - NotToDoList: Don't get frustrated or annoyed for stupid things, chill
+```
 
-</div>
 
 And this is my last month's review:
 
-<div class="highlight">
 
+```
     # May 2015  * The month I took yet another certification under my belt *
 
     ## Goals
@@ -279,8 +279,8 @@ And this is my last month's review:
     - Have a monthly goal related to beautiful Malin
     - Book one day to call home. Make it a routine
     - Timebox playing videogames you biatch
+```
 
-</div>
 
 Apparently I call myself and other people _biatches_ often in this review sections :D.
 
@@ -290,8 +290,8 @@ One level down and again I set 3 goals for the week, one thing to improve and on
 
 This week goals look like this for example:
 
-<div class="highlight">
 
+```
     # June 2015 *The month I took the 487 Certificate biatches!*
 
     ## Goals
@@ -345,15 +345,15 @@ This week goals look like this for example:
     - Train, meditate, blog redesign
     - Weekly review
     - Certification book
+```
 
-</div>
 
 It goes like this. I wake up at 5.30 (have tried waking up before but it doesn't work for me, it is not sustainable), I have breakfast (vitamins, coffee and oatmeal) while I watch a pluralsight course or dev talk, I invariably lose 15 minutes in the loop of death (twitter, facebook, linkedin, gmail, twitter, facebook, linkedin, gmail, tw.....), Malin wakes up and we have an **awesome** good morning hug and kisses, I start a new article or continue writing an article for my blog between 6:00 and 7:00, go to the gym and then get to work around 9:00 am. I get home after work around 18:00 and there's no fixed script, I adapt to the daily situation and try to find time to get stuff done. Between 10:30 and 11:30 I go to bed. Sometimes I medidate before falling asleep.
 
 And this is an example of a weekly review from last week:
 
-<div class="highlight">
 
+```
     ## Week 22
     ### Weekly Goals
     * Must: Write 2 blog posts this week
@@ -385,8 +385,8 @@ And this is an example of a weekly review from last week:
     ### What am I going to do to improve?
     - schedule a day to talk with family and stick to it
     - timebox playing and stick to it!
+```
 
-</div>
 
 I try to think of every day, every week, every month as a clean slate. It doesn't matter if I have screwed up, if I haven't lived up to my expectations or goals. **Every day I have the chance to start over and kick ass.**
 
@@ -400,8 +400,8 @@ Since _work_ is a more specific area than _Home and life_ it has much more speci
 
 These are my yearly world for 2015 at work:
 
-<div class="highlight">
 
+```
     ## Goals
     1. 90% bel√§ggning // 90% allocation to projects as a consultant
     2. MCSD before May
@@ -425,8 +425,8 @@ These are my yearly world for 2015 at work:
             - UX
             - Design
             - etc
+```
 
-</div>
 
 They align with some of my personal goals which is definitely a good thing to do (ever tried rowing in two different directions at the same time?).
 
@@ -434,8 +434,8 @@ They align with some of my personal goals which is definitely a good thing to do
 
 The monthly and weekly overviews work exactly like at home. I pick 3 goals, one thing to improve and one thing to stop doing:
 
-<div class="highlight">
 
+```
     # Juni 2015 - *When we completed KMD project in an AAAWESOME way*
     ## Goals
     - Must: Complete Azure/web services certificate
@@ -449,8 +449,8 @@ The monthly and weekly overviews work exactly like at home. I pick 3 goals, one 
     - Could: Study like a boss for the certification
 
     - Improve: fix vim plugins
+```
 
-</div>
 
 In contrast with how I plan at home, I do not plan a week in advance at work. There are too many shifting priorities and things out of my control to have a good enough view of what I will be working on each specific day.
 
@@ -458,8 +458,8 @@ In contrast with how I plan at home, I do not plan a week in advance at work. Th
 
 Each day when I get to the office I spend at least the first 15 minutes planning out the day. I review my mail (don't get too much of it so it is not a sink of time), go through my backlog of actions, things that I didn't complete the day before, and I pick up 3 things to do that would add the most value to the project at this point in time.
 
-<div class="highlight">
 
+```
     ### Thursday 4th
     // As a consultant some of our customers value to have a very clear
     // picture of how I spend my time
@@ -536,15 +536,15 @@ Each day when I get to the office I spend at least the first 15 minutes planning
             - What didn't go so well?
             - What am I going to do to improve?
             - Did I help anyone?
+```
 
-</div>
 
 During the day I may change priorities based on things that are happening around me and I may take notes of possible improvements, things that I'd like to do in the future, things that I should improve and learn more about.
 
 At the end of the day I try to make time for doing a little reflection. For instance:
 
-<div class="highlight">
 
+```
     - Wrapup
         - Time report
         - Reflect
@@ -557,8 +557,8 @@ At the end of the day I try to make time for doing a little reflection. For inst
                 - continue contributing and speaking up
                 - focus on the most important things first, don't get stuck fixing small things of marginal importance
             - Did I help anyone?
+```
 
-</div>
 
 These goal-setting and recording have a nice side-effect at work as well, I can, at any point in time, show what I have been working on every day, of every week, of every month, of every year at a given company.
 
@@ -570,8 +570,8 @@ These are mine. As you may notice, some are still under development:
 
 #### [](#purpose)Purpose
 
-<div class="highlight">
 
+```
     # Purpose/Meaning system
 
     - I want to make the world a better place (not so S.M.A.R.T.)
@@ -617,22 +617,22 @@ These are mine. As you may notice, some are still under development:
 
     ### Be a Champion of worthy causes:
     - I want to be a champion to the worthy causes of this world
+```
 
-</div>
 
 #### [](#values-and-principles)Values and Principles
 
 Values are not very actionable things, so I like to focus on principles. I have three core principles that I like to follow. These are:
 
-<div class="highlight">
 
+```
     - Principles:
         - Core
             - Be awesome
             - Be kind
             - Be a leader (help other people be awesome)
+```
 
-</div>
 
 They are aspirational and mean:
 
@@ -642,8 +642,8 @@ They are aspirational and mean:
 
 And then I have a ton of sub-principles that I try to live by. I re-read them often and work to internalize them:
 
-<div class="highlight">
 
+```
     - Principles - All:
         - When I get sad, I stop being sad, and be awesome instead
         - Life is short. Live your dream and share your passion
@@ -727,8 +727,8 @@ And then I have a ton of sub-principles that I try to live by. I re-read them of
           very strong branding or be freaking famous before ppl give
           a damn, and even then... xD So chill dude... and sell yourself
           cause no-one else is going to do it for you.
+```
 
-</div>
 
 ### [](#reflecting-and-continuous-improvement)Reflecting and Continuous Improvement
 
@@ -769,8 +769,8 @@ When I tackle bigger projects I create a separate markdown file and I write a se
 
 I usually start by defining why I am pursuing a project and what do I expect to get from it. In the case of blogging:
 
-<div class="highlight">
 
+```
     # Why do I Blog?
 
     *I blog first and foremost to share my passion and
@@ -792,13 +792,13 @@ I usually start by defining why I am pursuing a project and what do I expect to 
 
     * Fun
     * Value proposition, how will it improve your life
+```
 
-</div>
 
 I also write down goals, To-Dos, ideas:
 
-<div class="highlight">
 
+```
     # Ideas
     ## Up and Coming
 
@@ -878,13 +878,13 @@ I also write down goals, To-Dos, ideas:
     # BACKLOG Of Ideas - To Categorize
 
     ...
+```
 
-</div>
 
 And I write scripts as I find ways to improve what I am doing within the project:
 
-<div class="highlight">
 
+```
     # Blog post Checklist
     Hi Jaime, read this before you write a new blog post! ;) You'll do fine
 
@@ -907,8 +907,8 @@ And I write scripts as I find ways to improve what I am doing within the project
         - Be yourself. Can you recognize yourself when you read it?
 
     6. Every month -> check stats -> which posts get more views?
+```
 
-</div>
 
 I also write [lots of information for later reference within my wiki](http://www.barbarianmeetscoding.com/wiki/).
 
