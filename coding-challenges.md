@@ -10,18 +10,18 @@ other.
 has sufficient space at the end to hold the additional characters, and that you are given the "true"
 length of the string. (Note: If implementing in Java, please use a character array so that you can
 perform this operation in place.)
-EXAMPLE
+**EXAMPLE**
 Input: "Mr John Smith ", 13
 Output: "Mr%20John%20Smith"
 4. Palindrome Permutation: Given a string, write a function to check if it is a permutation of a palindrome. A palindrome is a word or phrase that is the same forwards and backwards. A permutation
 is a rearrangement of letters. The palindrome does not need to be limited to just dictionary words.
-5. EXAMPLE
+**EXAMPLE**
 Input: Tact Coa
 Output: True (permutations: "taco cat", "atco eta", etc.)
-One Away: There are three types of edits that can be performed on strings: insert a character,
+5. One Away: There are three types of edits that can be performed on strings: insert a character,
 remove a character, or replace a character. Given two strings, write a function to check if they are
 one edit (or zero edits) away.
-EXAMPLE
+**EXAMPLE**
 pale, ple -> true
 pales, pale -> true
 pale, bale -> true
@@ -46,28 +46,28 @@ How would you solve this problem if a temporary buffer is not allowed?
 3. Delete Middle Node: Implement an algorithm to delete a node in the middle (i.e., any node but
 the first and last node, not necessarily the exact middle) of a singly linked list, given only access to
 that node.
-EXAMPLE
-lnput:the node c from the linked lista->b->c->d->e->f
+**EXAMPLE**
+Input:the node c from the linked lista->b->c->d->e->f
 Result: nothing is returned, but the new linked list looks like a->b->d->e->f
 4. Partition: Write code to partition a linked list around a value x, such that all nodes less than x come
 before all nodes greater than or equal to x. If x is contained within the list, the values of x only need
 to be after the elements less than x (see below). The partition element x can appear anywhere in the
 "right partition"; it does not need to appear between the left and right partitions.
-EXAMPLE
-Input:
-Output:
-3 -> 5 -> 8 -> 5 -> 10 -> 2 -> 1 [partition= 5]
-3 -> 1 -> 2 -> 10 -> 5 -> 5 -> 8
+**EXAMPLE**
+Input: 3 -> 5 -> 8 -> 5 -> 10 -> 2 -> 1 [partition= 5]
+Output: 3 -> 1 -> 2 -> 10 -> 5 -> 5 -> 8
+
+
 5. Sum Lists: You have two numbers represented by a linked list, where each node contains a single
 digit. The digits are stored in reverse order, such that the 1 's digit is at the head of the list. Write a
 function that adds the two numbers and returns the sum as a linked list.
-EXAMPLE
+**EXAMPLE**
 Input: (7-> 1 -> 6) + (5 -> 9 -> 2).That is,617 + 295.
 Output: 2 -> 1 -> 9. That is, 912.
 FOLLOW UP
 Suppose the digits are stored in forward order. Repeat the above problem.
-EXAMPLE
-lnput:(6 -> 1 -> 7) + (2 -> 9 -> 5).That is,617 + 295.
+**EXAMPLE**
+Input:(6 -> 1 -> 7) + (2 -> 9 -> 5).That is,617 + 295.
 Output: 9 -> 1 -> 2. That is, 912.
 6. Palindrome: Implement a function to check if a linked list is a palindrome.
 7. Intersection: Given two (singly) linked lists, determine if the two lists intersect. Return the intersecting node. Note that the intersection is defined based on reference, not value. That is, if the kth
@@ -78,7 +78,7 @@ beginning of the loop.
 DEFINITION
 Circular linked list: A (corrupt) linked list in which a node's next pointer points to an earlier node, so
 as to make a loop in the linked list.
-EXAMPLE
+**EXAMPLE**
 Input: A -> B -> C -> D -> E -> C [the same C as earlier]
 Output: C
 
@@ -121,7 +121,7 @@ binary search tree. You may assume that each node has a link to its parent.
 projects, where the second project is dependent on the first project). All of a project's dependencies
 must be built before the project is. Find a build order that will allow the projects to be built. If there
 is no valid build order, return an error.
-EXAMPLE
+**EXAMPLE**
 Input:
 projects: a, b, c, d, e, f
 dependencies: (a, d), (f, b), (b, d), (f, a), (d, c)
@@ -132,8 +132,8 @@ necessarily a binary search tree.
 9. BST Sequences: A binary search tree was created by traversing through an array from left to right
 and inserting each element. Given a binary search tree with distinct elements, print all possible
 arrays that could have led to this tree.
-EXAMPLE
-Input:
+**EXAMPLE**
+Input: | 1 | <--- 2 ---> | 3 |
 Output: {2, 1, 3}, {2, 3, 1}
 10. Check Subtree: Tl and T2 are two very large binary trees, with Tl much bigger than T2. Create an
 algorithm to determine if T2 is a subtree of Tl.
@@ -154,7 +154,7 @@ j. Write a method to insert M into N such that M starts at bit j and ends at bit
 can assume that the bits j through i have enough space to fit all of M. That is, if
 M = 10011, you can assume that there are at least 5 bits between j and i. You would not, for
 example, have j = 3 and i = 2, because M could not fully fit between bit 3 and bit 2.
-EXAMPLE
+**EXAMPLE**
 Input: N 10000000000, M
 Output: N = 10001001100
 2. Binary to String: Given a real number between O and 1 (e.g., 0.72) that is passed in as a double, print
@@ -162,7 +162,7 @@ the binary representation. If the number cannot be represented accurately in bin
 characters, print "ERROR:'
 3. Flip Bit to Win: You have an integer and you can flip exactly one bit from a 0 to a 1. Write code to
 find the length of the longest sequence of ls you could create.
-EXAMPLE
+**EXAMPLE**
 Input: 1775
 Output: 8
 (or: 11011101111)
@@ -171,7 +171,7 @@ have the same number of 1 bits in their binary representation.
 5. Debugger: Explain what the following code does: ( ( n & ( n-1)) == 0).
 6. Conversion: Write a function to determine the number of bits you would need to flip to convert
 integer A to integer B.
-EXAMPLE
+**EXAMPLE**
 Input: 29 (or: 11101), 15 (or: 01111)
 Output: 2
 7. Pairwise Swap: Write a program to swap odd and even bits in an integer with as few instructions as
@@ -297,7 +297,7 @@ characters.
 8. Permutations with Dups: Write a method to compute all permutations of a string whose characters are not necessarily unique. The list of permutations should not have duplicates.
 9. Parens: Implement an algorithm to print all valid (e.g., properly opened and closed) combinations
 of n pairs of parentheses.
-EXAMPLE
+**EXAMPLE**
 Input: 3
 Output: ( ( () ) ) , ( () () ) , ( () ) () , () ( () ) , () () ()
 10. Paint Fill: Implement the "paint fill" function that one might see on many image editing programs.
@@ -318,7 +318,7 @@ height of the tallest possible stack. The height of a stack is the sum of the he
 14. Boolean Evaluation: Given a boolean expression consisting of the symbols 0 (false), 1 (true), &
 (AND), I (OR), and /\ (XOR), and a desired boolean result value result, implement a function to
 count the number of ways of parenthesizing the expression such that it evaluates to result.
-EXAMPLE
+**EXAMPLE**
 countEval("l /\01011", false) -> 2
 countEval("0&0&0&1/\ll0", true) -> 10
 
@@ -359,8 +359,8 @@ each other.
 3. Search in Rotated Array: Given a sorted array of n integers that has been rotated an unknown
 number of times, write code to find an element in the array. You may assume that the array was
 originally sorted in increasing order.
-EXAMPLE
-lnput:findSin{lS, 16, 19, 20, 25, 1, 3, 4, 5, 7, 10, 14}
+**EXAMPLE**
+Input:findSin{lS, 16, 19, 20, 25, 1, 3, 4, 5, 7, 10, 14}
 Output: 8 (the index of 5 in the array)
 4. Sorted Search, No Size: You are given an array like data structure Listy which lacks a size
 method. It does, however, have an elementAt ( i) method that returns the element at index i in
@@ -369,7 +369,7 @@ structure only supports positive integers.) Given a Li sty which contains sorted
 find the index at which an element x occurs. If x occurs multiple times, you may return any index.
 5. Sparse Search: Given a sorted array of strings that is interspersed with empty strings, write a
 method to find the location of a given string.
-EXAMPLE
+**EXAMPLE**
 Input: ball,{"at","",'"',"", "ball","","", "car", "",'"', "dad",'"',""}
 Output:4
 6. Sort Big File: Imagine you have a 20 GB file with one string per line. Explain how you would sort
@@ -388,7 +388,7 @@ ascending order, write a method to find an element.
 10. Rank from Stream: Imagine you are reading in a stream of integers. Periodically, you wish to be able
 to look up the rank of a numberx (the number of values less than or equal to x). lmplementthe data
 structures and algorithms to support these operations. That is, implement the method track ( int x), which is called when each number is generated, and the method getRankOfNumber(int x), which returns the number of values less than or equal to x (not including x itself).
-EXAMPLE
+**EXAMPLE**
 Stream (in order of appearance): 5, 1, 4, 4, 5, 9, 7, 13, 3
 getRankOfNumber(l) = 0
 getRankOfNumber(3) = 1
@@ -396,7 +396,7 @@ getRankOfNumber(4) = 3
 11. Peaks and Valleys: In an array of integers, a "peak" is an element which is greater than or equal to
 the adjacent integers and a "valley" is an element which is less than or equal to the adjacent integers. For example, in the array {5, 8, 6, 2, 3, 4, 6}, {8, 6} are peaks and {5, 2} are valleys. Given an array
 of integers, sort the array into an alternating sequence of peaks and valleys.
-EXAMPLE
+**EXAMPLE**
 Input: {5, 3, 1, 2, 3}
 Output: {5, 1, 3, 2, 3}
 
@@ -436,7 +436,7 @@ templates, that simulates a pointer while also providing automatic garbage colle
 T when the reference count hits zero.
 10. Malloc: Write an aligned malloc and free function that supports allocating memory such that the
 memory address returned is divisible by a specific power of two.
-EXAMPLE
+**EXAMPLE**
 align_malloc (1000, 128) will return a memory address that is a multiple of 128 and that points
 to memory of size 1000 bytes.
 aligned_ free () will free memory allocated by align_malloc.
@@ -511,7 +511,7 @@ compute the point of intersection, if any.
 5. Factorial Zeros: Write an algorithm which computes the number of trailing zeros in n factorial.
 6. Smallest Difference: Given two arrays of integers, compute the pair of values (one value in each
 array) with the smallest (non-negative) difference. Return the difference.
-EXAMPLE
+**EXAMPLE**
 Input: {1, 3, 15, 11, 2}, {23, 127,235, 19, 8}
 Output: 3. That is, the pair (11, 8).
 7. Number Max: Write a method that finds the maximum of two numbers. You should not use if-else
@@ -560,13 +560,13 @@ Write a method that, given a guess and a solution, returns the number of hits an
 16. Sub Sort: Given an array of integers, write a method to find indices m and n such that if you sorted
 elements m through n, the entire array would be sorted. Minimize n - m (that is, find the smallest
 such sequence).
-EXAMPLE
-lnput:1, 2, 4, 7, 10, 11, 7, 12, 6, 7, 16, 18, 19
+**EXAMPLE**
+Input:1, 2, 4, 7, 10, 11, 7, 12, 6, 7, 16, 18, 19
 Output: (3, 9)
 17. Contiguous Sequence: You are given an array of integers (both positive and negative). Find the
 contiguous sequence with the largest sum. Return the sum.
-EXAMPLE
-lnput:2, -8, 3, -2, 4, -10
+**EXAMPLE**
+Input:2, -8, 3, -2, 4, -10
 Output: 5 ( i. e • , { 3, -2, 4})
 18. Pattern Matching: You are given two strings, pattern and value. The pattern string consists of
 just the letters a and b, describing a pattern within a string. For example, the string catcatgocatgo
@@ -575,7 +575,7 @@ Write a method to determine if value matches pattern.
 19. Pond Sizes: You have an integer matrix representing a plot of land, where the value at that location represents the height above sea level. A value of zero indicates water. A pond is a region of
 water connected vertically, horizontally, or diagonally. The size of the pond is the total number of
 connected water cells. Write a method to compute the sizes of all ponds in the matrix.
-EXAMPLE
+**EXAMPLE**
 Input:
 0 2 1 0
 0 1 0 1
@@ -589,14 +589,14 @@ words (provided in whatever data structure you'd like). The mapping is shown in 
 | 4 (ghi) | 5 (jkl) | 6 (mno) |
 | 7 (pqrs) | 8 (tuv) | 9 (wxyz) |
 | | 0 | |
-EXAMPLE
+**EXAMPLE**
 Input:
 Output:
 8733
 tree, used
 21. Sum Swap: Given two arrays of integers, find a pair of values (one value from each array) that you
 can swap to give the two arrays the same sum.
-EXAMPLE
+**EXAMPLE**
 Input: {4, 1, 2, 1, 1, 2} and {3, 6, 3, 3}
 Output: {1, 3}
 22. Langton's Ant: An ant is sitting on an infinite grid of white and black squares. It initially faces right.
@@ -618,11 +618,9 @@ specified value.
 item. The cache should map from keys to values (allowing you to insert and retrieve a value associated with a particular key) and be initialized with a max size. When it is full, it should evict the least
 recently used item.
 26. Calculator: Given an arithmetic equation consisting of positive integers, +, -, * and / (no parentheses), compute the result.
-EXAMPLE
-Input:
-Output:
-2*3+5/6*3+15
-23.5
+**EXAMPLE**
+Input: 2*3+5/6*3+15
+Output: 23.5
 
 ### 17 Hard
 1. Add Without Plus: Write a function that adds two numbers. You should not use+ or any arithmetic
@@ -641,7 +639,7 @@ it in O(n) time?
 an equal number of letters and numbers.
 6. Count of 2s: Write a method to count the number of 2s that appear in all the numbers between O
 and n (inclusive).
-EXAMPLE
+**EXAMPLE**
 Input: 25
 Output: 9 (2, 12, 20, 21, 22, 23, 24 and 25. Note that 22 counts for two 2s.)
 7. Baby Names: Each year, the government releases a list of the 10000 most common baby names
@@ -652,7 +650,7 @@ of pairs of equivalent names, write an algorithm to print a new list of the true
 name. Note that if John and Jon are synonyms, and Jon and Johnny are synonyms, then John and
 Johnny are synonyms. (It is both transitive and symmetric.) In the final list, any name can be used
 as the "real" name.
-EXAMPLE
+**EXAMPLE**
 Input:
 Names: John (15), Jon (12), Chris (13), Kris (4), Christopher (19)
 Synonyms: (Jon, John), (John, Johnny), (Chris, Kris), (Chris, Christopher)
@@ -660,7 +658,7 @@ Output: John (27), Kris (36)
 8. Circus Tower: A circus is designing a tower routine consisting of people standing atop one another's shoulders. For practical and aesthetic reasons, each person must be both shorter and lighter
 than the person below him or her. Given the heights and weights of each person in the circus, write
 a method to compute the largest possible number of people in such a tower.
-EXAMPLE
+**EXAMPLE**
 input(ht,wt): (65, 100) (70, 150) (56, 90) (75, 190) (60, 95) (68, 110)
 Output: The longest tower is length 6 and includes from top to bottom:
 (56, 90) (60,95) (65,100) (68,110) (70,150) (75,190)
@@ -670,7 +668,7 @@ For example, the first several multiples would be (in order) 1, 3, 5, 7, 9, 15, 
 10. Majority Element: A majority element is an element that makes up more than half of the items in
 an array. Given a positive integers array, find the majority element. If there is no majority element,
 return-1. Do this inO(N) time and 0(1) space.
-EXAMPLE
+**EXAMPLE**
 Input: 1 2 5 9 5 9 5 5 5
 Output: 5
 11. Word Distance: You have a large text file containing words. Given any two words, find the shortest
@@ -693,20 +691,20 @@ lengthy document. A sentence like "I reset the computer. It still didn't boot!"
 became "iresetthecomputeritstilldidntboot''. You'll deal with the punctuation and capitalization later; right now you need to re-insert the spaces. Most of the words are in a dictionary but
 a few are not. Given a dictionary (a list of strings) and the document (a string), design an algorithm
 to unconcatenate the document in a way that minimizes the number of unrecognized characters.
-EXAMPLE:
+**EXAMPLE**:
 Input: jesslookedjustliketimherbrother
 Output: jess looked just like tim her brother (7 unrecognized characters)
 14. Smallest K: Design an algorithm to find the smallest K numbers in an array.
 15. Longest Word: Given a list of words, write a program to find the longest word made of other words
 in the list.
-EXAMPLE
+**EXAMPLE**
 input:cat, banana, dog, nana, walk, walker, dogwalker
 Output: dogwalker
 16. The Masseuse: A popular masseuse receives a sequence of back-to-back appointment requests
 and is debating which ones to accept. She needs a 15-minute break between appointments and
 therefore she cannot accept any adjacent requests. Given a sequence of back to-back appointment requests (all multiples of 15 minutes, none overlap, and none can be moved), find the optimal
 (highest total booked minutes) set the masseuse can honor. Return the number of minutes.
-EXAMPLE
+**EXAMPLE**
 Input: {30, 15, 60, 75, 45, 15, 15, 45}
 Output:180 minutes ({30, 60, 45, 45}).
 17. Multi Search: Given a string band an array of smaller strings T, design a method to search b for
@@ -714,7 +712,7 @@ each small string in T.
 18. Shortest Supersequence: You are given two arrays, one shorter (with all distinct elements) and one
 longer. Find the shortest subarray in the longer array that contains all the elements in the shorter
 array. The items can appear in any order.
-EXAMPLE
+**EXAMPLE**
 Input:{1, 5, 9} I {7, 5, 9, 0, 2, 1, 3, 5, 7, 9. 1, 1, 5, 8, 8, 9, 7}
 Output: [ 7, 10] (the underlined portion above)
 19. Missing Two: You are given an array with all the numbers from 1 to N appearing exactly once,
@@ -725,13 +723,13 @@ to find and maintain the median value as new values are generated.
 21. Volume of Histogram: Imagine a histogram (bar graph). Design an algorithm to compute the
 volume of water it could hold if someone poured water across the top. You can assume that each
 histogram bar has width 1.
-EXAMPLE (Black bars are the histogram. Gray is water.)
+**EXAMPLE** (Black bars are the histogram. Gray is water.)
 Input:{0, 0, 4, 0, 0, 6, 0, 0, 3, 0, 5, 0, 1, 0, 0, 0}
 Output: 26
 22. Word Transformer: Given two words of equal length that are in a dictionary, write a method to
 transform one word into another word by changing only one letter at a time. The new word you get
 in each step must be in the dictionary.
-EXAMPLE
+**EXAMPLE**
 Input: DAMP, LIKE
 Output: DAMP-> LAMP-> LIMP-> LIME-> LIKE
 23. Max Black Square: Imagine you have a square matrix, where each cell (pixel) is either black or white
@@ -753,7 +751,7 @@ have similarity 0. Design an algorithm that returns a list of pairs of document 
 similarity.
 Print only the pairs with similarity greater than 0. Empty documents should not be printed at all. For
 simplicity, you may assume each document is represented as an array of distinct integers.
-EXAMPLE
+**EXAMPLE**
 Input:
 13: {14, 15, 100, 9, 3}
 16: {32, 1, 9, 3, 5}
