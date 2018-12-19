@@ -545,11 +545,9 @@ mapping of family -> 1, person ->2, firstName -> 3, lastName -> 4, state
 <person firstName="Gayle">Some Message</person>
 </family>
 ```
-
->Becomes:
->1 4 McDowell 5 CA 0 2 3 Gayle 0 Some Message 0 0
+Becomes:
+1 4 McDowell 5 CA 0 2 3 Gayle 0 Some Message 0 0
 Write code to print the encoded version of an XML element (passed in Element and Attribute objects).
-
 13. Bisect Squares: Given two squares on a two-dimensional plane, find a line that would cut these two
 squares in half. Assume that the top and the bottom sides of the square run parallel to the x-axis.
 14. Best Line: Given a two-dimensional graph with points on it, find a line which passes the most
@@ -688,13 +686,11 @@ public class BiNode {
   public int data;
 }
 ```
-
-> The data structure BiNode could be used to represent both a binary tree (where nodel is the left
+ The data structure BiNode could be used to represent both a binary tree (where nodel is the left
 node and node2 is the right node) or a doubly linked list (where node1 is the previous node and
 node2 is the next node). Implement a method to convert a binary search tree (implemented with
 BiNode) into a doubly linked list. The values should be kept in order and the operation should be
 performed in place (that is, on the original data structure).
-
 13. Re-Space: Oh, no! You have accidentally removed all spaces, punctuation, and capitalization in a
 lengthy document. A sentence like "I reset the computer. It still didn't boot!"
 became "iresetthecomputeritstilldidntboot''. You'll deal with the punctuation and capitalization later; right now you need to re-insert the spaces. Most of the words are in a dictionary but
