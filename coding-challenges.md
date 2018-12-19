@@ -537,7 +537,7 @@ Value --> string value
 For example, the following XML might be converted into the compressed string below (assuming a
 mapping of family -> 1, person ->2, firstName -> 3, lastName -> 4, state
 -> 5).
-```HTML
+```html
 <family lastName="McDowell" state="CA">
 <person firstName="Gayle">Some Message</person>
 </family>
@@ -677,7 +677,7 @@ Output: 5
 distance (in terms of number of words) between them in the file. If the operation will be repeated
 many times for the same file (but different pairs of words), can you optimize your solution?
 12. BiNode: Consider a simple data structure called BiNode, which has pointers to two other nodes.
-```Java 
+```java 
 public class BiNode {
   public BiNode nodel, node2;
   public int data;
