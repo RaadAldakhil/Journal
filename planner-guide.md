@@ -68,7 +68,7 @@ When a new year comes I sit down and think about what I would like to achieve du
 These are my goals for 2015 for instance:
 
 
-```
+```markdown
     // I usually pick a theme for the year, month, week
     // this year I didn't, I think I had some uncertainty as to what
     // to choose since I had just moved to Stockholm and was starting a new job
@@ -120,7 +120,7 @@ These are my goals for 2015 for instance:
 When a year finishes, I sit down, review the year and reflect about what I have achieved. I celebrate the stuff that I have done, learn from my mistakes and feel hopeful for the future. These are my reviews/reflections from 2014:
 
 
-```
+```markdown
     # 2014 - The Year in Which I Started My Own Company
 
     In summary:
@@ -198,7 +198,7 @@ When a year finishes, I sit down, review the year and reflect about what I have 
 After having set the yearly goals and painted how the year is going to look like, I drill down and become more specific/practical with quarterly goals:
 
 
-```
+```markdown
     ## Quarter By Quarter
     * Q1: Angular.JS and buffing up my knowledge for Active Solution (Jan, Feb, Mars)
         * AngularJS
@@ -231,7 +231,7 @@ When I start a new month I review the past month, reflect and set 3 new goals fo
 These are my _Home and Life_ monthly goals for this month of June for instance:
 
 
-```
+```markdown
     # June 2015 *The month I took the 487 Certificate biatches!*
 
     ## Goals
@@ -247,7 +247,7 @@ These are my _Home and Life_ monthly goals for this month of June for instance:
 And this is my last month's review:
 
 
-```
+```markdown
     # May 2015  * The month I took yet another certification under my belt *
 
     ## Goals
@@ -291,7 +291,7 @@ One level down and again I set 3 goals for the week, one thing to improve and on
 This week goals look like this for example:
 
 
-```
+```markdown
     # June 2015 *The month I took the 487 Certificate biatches!*
 
     ## Goals
@@ -353,7 +353,7 @@ It goes like this. I wake up at 5.30 (have tried waking up before but it doesn't
 And this is an example of a weekly review from last week:
 
 
-```
+```markdown
     ## Week 22
     ### Weekly Goals
     * Must: Write 2 blog posts this week
@@ -401,7 +401,7 @@ Since _work_ is a more specific area than _Home and life_ it has much more speci
 These are my yearly world for 2015 at work:
 
 
-```
+```markdown
     ## Goals
     1. 90% bel√§ggning // 90% allocation to projects as a consultant
     2. MCSD before May
@@ -435,7 +435,7 @@ They align with some of my personal goals which is definitely a good thing to do
 The monthly and weekly overviews work exactly like at home. I pick 3 goals, one thing to improve and one thing to stop doing:
 
 
-```
+```markdown
     # Juni 2015 - *When we completed KMD project in an AAAWESOME way*
     ## Goals
     - Must: Complete Azure/web services certificate
@@ -459,7 +459,7 @@ In contrast with how I plan at home, I do not plan a week in advance at work. Th
 Each day when I get to the office I spend at least the first 15 minutes planning out the day. I review my mail (don't get too much of it so it is not a sink of time), go through my backlog of actions, things that I didn't complete the day before, and I pick up 3 things to do that would add the most value to the project at this point in time.
 
 
-```
+```markdown
     ### Thursday 4th
     // As a consultant some of our customers value to have a very clear
     // picture of how I spend my time
@@ -544,7 +544,7 @@ During the day I may change priorities based on things that are happening around
 At the end of the day I try to make time for doing a little reflection. For instance:
 
 
-```
+```markdown
     - Wrapup
         - Time report
         - Reflect
@@ -571,7 +571,7 @@ These are mine. As you may notice, some are still under development:
 #### [](#purpose)Purpose
 
 
-```
+```markdown
     # Purpose/Meaning system
 
     - I want to make the world a better place (not so S.M.A.R.T.)
@@ -625,7 +625,7 @@ These are mine. As you may notice, some are still under development:
 Values are not very actionable things, so I like to focus on principles. I have three core principles that I like to follow. These are:
 
 
-```
+```markdown
     - Principles:
         - Core
             - Be awesome
@@ -643,7 +643,7 @@ They are aspirational and mean:
 And then I have a ton of sub-principles that I try to live by. I re-read them often and work to internalize them:
 
 
-```
+```markdown
     - Principles - All:
         - When I get sad, I stop being sad, and be awesome instead
         - Life is short. Live your dream and share your passion
@@ -770,7 +770,7 @@ When I tackle bigger projects I create a separate markdown file and I write a se
 I usually start by defining why I am pursuing a project and what do I expect to get from it. In the case of blogging:
 
 
-```
+```markdown
     # Why do I Blog?
 
     *I blog first and foremost to share my passion and
@@ -798,7 +798,7 @@ I usually start by defining why I am pursuing a project and what do I expect to 
 I also write down goals, To-Dos, ideas:
 
 
-```
+```markdown
     # Ideas
     ## Up and Coming
 
@@ -884,7 +884,7 @@ I also write down goals, To-Dos, ideas:
 And I write scripts as I find ways to improve what I am doing within the project:
 
 
-```
+```markdown
     # Blog post Checklist
     Hi Jaime, read this before you write a new blog post! ;) You'll do fine
 
