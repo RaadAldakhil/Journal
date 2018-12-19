@@ -485,7 +485,7 @@ could potentially occur if all the philosophers reached for the left chopstick a
 threads and locks, implement a simulation of the dining philosophers problem that prevents deadlocks.
 4. Deadlock-Free Class: Design a class which provides a lock only if there are no possible deadlocks.
 5. Call In Order: Suppose we have the following code:
-```
+```Java
 public class Foo {
 public Foo() { ... }
 public void first() { ... }
@@ -677,7 +677,7 @@ Output: 5
 distance (in terms of number of words) between them in the file. If the operation will be repeated
 many times for the same file (but different pairs of words), can you optimize your solution?
 12. BiNode: Consider a simple data structure called BiNode, which has pointers to two other nodes.
-```
+```Java 
 public class BiNode {
   public BiNode nodel, node2;
   public int data;
