@@ -10,6 +10,7 @@ Despite my preference for paper and book formats, I believe having the content o
 
 ## Productivity and Skills
 ### Must Know Data Structures, Algorithms, and Topics:
+
 | Data Structures | Algorithms | Concepts |
 |---|---|---|
 | Linked list | Breadth-first search | Bit manipulation |
