@@ -35,6 +35,7 @@ Despite my preference for paper and book formats, I believe having the content o
 4. Time management skills
 5. Marketing skills
 6. Communication skills
+
 ### 4 Ways to Create an Algorithm:
 1. Pattern Matching
 2. Simplify & Generalise
@@ -204,6 +205,7 @@ Take a cold shower for 30 days. Self discipline is built by pushing through disc
 | protein & carbs | muscle gain |
 | protein & fat | maintenance |
 | protein & veggies | fat loss |
+
 2. Exercise 3 times a week
 3. Drink water or non-caffinated drins
 4. Vitamin D, B6(B12), magnesium supplements
@@ -215,6 +217,7 @@ Take a cold shower for 30 days. Self discipline is built by pushing through disc
 10. stop information overload
 11. look into medical conditions
 12. Do 50 pushups, situps, and dips before showering in the morning.   
+{:start="2"}
 
 ### Avoiding Information Overload
 1. Do a brain dump/morning pages
@@ -501,4 +504,4 @@ Senior dev: Can help others. (When people trust you.)
 21. Invest in real-estate/investment trusts
 22. Outsource business needs
 23. Invest in crowd funded real-estate
-24. product design 
+24. product design
