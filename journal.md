@@ -107,6 +107,9 @@ When starting work, as an extra push, count down from 5, and when at 1 get up an
 6. Write.
 7. Seek adversity.
 
+### Fuller's "Forging Artifacts"
+Fuller would make models of his ideas. If they proved feasible, he would make working prototypes of them. Now his seemingly outlandish ideas were no longer speculation, but reality. He would present these artifacts to the public and gauge their response.
+
 ### Deep work (Flow or the zone)
 1. Dedicate time just for deep work(No shallow work). Start small, 1 hour, then increase to 4+ hours.
 2. Pick quiet, distraction free spot to work in.
