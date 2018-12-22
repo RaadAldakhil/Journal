@@ -1054,13 +1054,13 @@ ID1, ID2 : SIMILARITY
 
     *Knuth:* The Art of Computer Programming
 
-    *Siena:* The Algorithm Design Manual
+    *Skiena:* The Algorithm Design Manual
 
-    *Carmen et al:* Introduction to Algorithms
+    *Cormen et al:* Introduction to Algorithms
 
     *Russel:* Artificial Intelligence: A Modern Approach
 
-    *Abel son:* Structure and Interpretation of Computer Programs
+    *Abelson:* Structure and Interpretation of Computer Programs
 
 8. **Hungry for More?**
 
