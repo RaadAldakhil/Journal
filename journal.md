@@ -506,3 +506,15 @@ Senior dev: Can help others. (When people trust you.)
 22. Outsource business needs
 23. Invest in crowd funded real-estate
 24. product design
+25. Get paid to do things you're already doing
+26. Rent out extra space in your house
+27. Rent out items you already have
+28. Design products to sell on CafePress or Redbubble
+29. Flip domain names
+30. Become a social media influencer
+31. Buy a laundromat/car wash
+32. Invest in a local business
+33. Invest in Royalty income
+34. Sell pre-packaged stock photography
+35. Write slogans
+36. Become an Amazon Associate
