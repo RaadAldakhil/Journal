@@ -44,15 +44,15 @@ Despite my preference for paper and book formats, I believe having the content o
 4. Data Structure Brainstorm
 
 ### Rethink your approach to reading:
-Mindshift #1: Give yourself permission to quit.
+* Mindshift #1: Give yourself permission to quit.
     * Look at the sunk cost fallacy
     * quitting is not forever
-Mindshift #2: Read more( a lot more) than one book at a time.
+* Mindshift #2: Read more( a lot more) than one book at a time.
     * Have a book for every mood
     * Speed repitition
     * Interleaving
     * Ending delayed gratificatin
-Mindshift #3: You don't have to read in sequential order
+* Mindshift #3: You don't have to read in sequential order
     * Filler books
     * Think of books as blog archives
 
@@ -366,7 +366,7 @@ If you see bad design, dirty code, or bad implementation then fix it along the w
 3. Go back to source material and study up on your weak points until you can use simple language to explain it.
 4. Repeat first 3 steps until you master the topic.
 
-### Yearly goals:
+### Helpful Yearly goals:
 * Learn at least one new language each year.
 * Read a technical book each quarter, then each month.
 * Read non-technical books too.
