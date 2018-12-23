@@ -366,6 +366,12 @@ If you see bad design, dirty code, or bad implementation then fix it along the w
 3. Go back to source material and study up on your weak points until you can use simple language to explain it.
 4. Repeat first 3 steps until you master the topic.
 
+### Elon Musk's polymath formula:
+1. [Put in the time( at least five hours per week)](https://medium.com/accelerated-intelligence/the-5-hour-rule-if-youre-not-spending-5-hours-per-week-learning-you-re-being-irresponsible-791c3f18f5e6)
+2. [Learn the core mentail models accross fields](https://medium.com/accelerated-intelligence/this-is-exactly-how-you-should-train-yourself-to-be-smarter-infographic-86d0d42ad41c)
+3. Relate those concept back to our life and the world.
+4. Ferociously apply what you learn.
+
 ### Helpful Yearly goals:
 * Learn at least one new language each year.
 * Read a technical book each quarter, then each month.
