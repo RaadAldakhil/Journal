@@ -368,7 +368,7 @@ If you see bad design, dirty code, or bad implementation then fix it along the w
 
 ### Elon Musk's polymath formula:
 1. [Put in the time( at least five hours per week)](https://medium.com/accelerated-intelligence/the-5-hour-rule-if-youre-not-spending-5-hours-per-week-learning-you-re-being-irresponsible-791c3f18f5e6)
-2. [Learn the core mentail models accross fields](https://medium.com/accelerated-intelligence/this-is-exactly-how-you-should-train-yourself-to-be-smarter-infographic-86d0d42ad41c)
+2. [Learn the core mental models across fields](https://medium.com/accelerated-intelligence/this-is-exactly-how-you-should-train-yourself-to-be-smarter-infographic-86d0d42ad41c)
 3. Relate those concept back to our life and the world.
 4. Ferociously apply what you learn.
 
