@@ -372,6 +372,23 @@ If you see bad design, dirty code, or bad implementation then fix it along the w
 3. Relate those concept back to our life and the world.
 4. Ferociously apply what you learn.
 
+### Breakdown of the Snowball Principle
+
+#### Key #1: Get the fundamentals right FIRST and make them non-negotiable.
+We are all human. And as humans, we have very similar psychological and physiological needs. There are six core areas that, barring some really bad luck, can essentially guarantee us a pretty good life if we get them to a sufficient level:
+
+1. Health: Living a long life filled with vibrant energy.
+2. Wealth: Accumulating enough money to live your ideal, sufficient lifestyle without worrying about the future.
+3. Relationships: Building a large, diverse, loving network of relationships with people you feel connected to.
+4. Work: Having a job where you can work on your strengths and passion in a way that gives you autonomy, connection, and purpose.
+5. Learning and Growth: Investing in the knowledge and skills that help you solve challenges in your life and career now and into the future.
+6. Purpose: Living a life full of meaning that matters.
+
+#### Key \#2: Have Big, Hairy, Audacious Goals (BHAGS), but be patient with them.
+
+#### Key \#3: Replace all-or-nothing sprints with a marathon mentality.
+People could effectively be geniuses if they followed the [five-hour rule](https://medium.com/accelerated-intelligence/bill-gates-warren-buffett-and-oprah-all-use-the-5-hour-rule-308f528b6363) and let knowledge compound upon itself by learning at least five hours per week.
+
 ### Helpful Yearly goals:
 * Learn at least one new language each year.
 * Read a technical book each quarter, then each month.
