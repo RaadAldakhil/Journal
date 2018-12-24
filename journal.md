@@ -204,11 +204,16 @@ Take a cold shower for 30 days. Self discipline is built by pushing through disc
     * drink more water
     * less salty food
 
-| combination | result |
+| Combination | Result |
 | --- | --- |
-| protein & carbs | muscle gain |
-| protein & fat | maintenance |
-| protein & veggies | fat loss |
+| Protein & Carbs | Muscle Gain |
+| Protein & Fat | Maintenance |
+| Protein & Veggies | Fat Loss |
+
+| <center> Calorie Scale </center> |
+| --- |
+| <center> ← Low *Calories* High → </center>|
+| Steamed < Boiled < Sauteed < Deep Fried |
 
 2. Exercise 3 times a week
 3. Drink water or non-caffinated drins
