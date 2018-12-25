@@ -447,9 +447,9 @@ Just take a notepad to work in which you write specific time slots when you’re
 
 #### How to Become a Straight-A Student (2006)
 1. **In order to study more efficiently, manage your time and work in short, intensive bursts.**
-    </br>studies show that the optimal learning period is roughly 50 minutes, so you should work no longer than one hour before giving yourself a break.
+    studies show that the optimal learning period is roughly 50 minutes, so you should work no longer than one hour before giving yourself a break.
 2. **The urge to procrastinate is unavoidable – learn to fight it!**
-    </br>One way is to keep a work progress journal, which can help prevent you from falling for your lame excuses. Here’s how it works:
+    One way is to keep a work progress journal, which can help prevent you from falling for your lame excuses. Here’s how it works:
 
     When you wake up each morning, write down the day’s most important tasks: important classes, exams and even chores, like buying groceries or calling the electrician.
 
@@ -469,13 +469,14 @@ Just take a notepad to work in which you write specific time slots when you’re
     * Finally, complete your exam by thoroughly proofreading it.
 7. **Finding a thesis topic that excites you is a decisive step on the path to an excellent paper.**
 8. **Finding material for your paper centers on exhaustive but strictly limited research.**
-    </br>In order to research effectively, start by outlining the important arguments you need to research, breaking your topic or thesis into general chunks.
+    In order to research effectively, start by outlining the important arguments you need to research, breaking your topic or thesis into general chunks.
 
     The most important thing, however, is to you know where your cut-off is, i.e., knowing when you have all the information you need for your thesis. Any additional work is pointless.
 
     In order to determine whether you’ve reached an adequate amount of material, you should check two things:    
-        * First, that all the topics central to your thesis have at least two good sources.
-        * Second, that you have at least one good source for any topics will be helpful for your thesis, but aren’t necessary.      
+    * First, that all the topics central to your thesis have at least two good sources.
+    * Second, that you have at least one good source for any topics will be helpful for your thesis, but aren’t necessary.   
+
     If you have those two things, it’s time to stop researching. No matter how much more you think you need – stop!
 9. **Actively seek inspiration in order to tell an intriguing story.**
 10. **Fill in your structure, review your essay and hand in your A+ paper.**
@@ -537,8 +538,8 @@ If you are performing an taxing activity and your mind tells you you want to sto
 With mastery comes knowledge.
 With knowledge comes strength.
 * Junior dev: Can develop with little help. (When people depend on you.)
-</br>Mid-level dev: Can develop with no help.
-</br>Senior dev: Can help others. (When people trust you.)
+Mid-level dev: Can develop with no help.
+Senior dev: Can help others. (When people trust you.)
 * 5/25 Rule: Pick 25 things to achieve in 10 years. Rank by importance. Circle top 5. Avoid remaining 20 until done with top 5.
 * If feeling depressed, remember HALT:
     * Hungry
