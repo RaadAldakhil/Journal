@@ -64,6 +64,14 @@ Despite my preference for paper and book formats, I believe having the content o
 5. Use Parkinson's law to your advantage
 6. Be deliberate with your study environment
 7. Understand your personality type
+### 7 Habits of Highly Effective People
+1. Be proactive
+2. Begin with the end in mind
+3. Put first things first
+4. Think win-win
+5. Seek first to understand, then to be understood
+6. Synergize
+7. Sharpen the Saw
 
 ### 7 Simple habits for a more productive life:
 1. Make a list every morning
@@ -377,9 +385,119 @@ If you see bad design, dirty code, or bad implementation then fix it along the w
 3. Relate those concept back to our life and the world.
 4. Ferociously apply what you learn.
 
+### Cal Newport Digests
+
+#### So Good They Can't Ignore You (2012)
+1. Passion is rare, and striving for a job you’re passionate about often leads to unhappiness and dissatisfaction.
+2. Don’t do what you love. Learn to love what you do – by acquiring mastery, autonomy and relatedness.
+3. Adopt the craftsman mind-set, practice hard and get out of your comfort zone.
+4. To get a great job, collect career capital by acquiring rare and valuable skills.
+5. Acquire career capital to maintain control and autonomy in your work.
+6. Use the craftsman mind-set to find a motivating mission that's a unifying goal for your work life.
+7. Success in a mission requires making bold bets and standing out from the crowd.
+
+##### The key message in this book is:
+
+**Instead of searching for a job that corresponds to your passions, learn to love what you do. The first step in doing so is acquiring career capital through deliberate practice. This demands the adoption of the craftsman mind-set. Also, it never hurts to have a mission to pursue and it can greatly increase your job satisfaction.**
+
+##### Actionable advice from the book:
+
+**Decide what kind of market you're in.**
+
+If it's a winner-takes-all market, there is one sort of career capital that is successful: quality. You have to be the best at what you do. The auction market, on the other hand, allows for many different approaches to success. In the competitive blogosphere – an example of a take-all market – only really well-written advice blogs can succeed and attract readers.
+
+**Identify the skills you need to succeed in your given field.**
+
+This is called "identifying your career capital type." If you are a blogger, how can you write exceptionally compelling blogs? How can you use the skills you already have and build on them? You must remember that it is very difficult to start from scratch.
+
+**Keep control traps in mind when making important decisions about your work.**
+
+Without career capital, you will never have control in your job. That’s because until you've proven your competence and mastery, others will not give you control over your work.
+
+**To find your mission, do background research in your field regularly.**
+
+You never want to lose sight of the adjacent possible.
+
+#### Deep Work (2016)
+1. Multitasking and distraction are the enemies of productivity.
+2. There are different strategies for achieving deep work – all of which require intention.
+    * **Monastic approach** This strategy works by eliminating all sources of distraction and secluding yourself like a monk.
+    * **Bimodal approach** Which involves setting a clearly defined, long period of seclusion for work and leaving the rest of your time free for everything else.
+    * **Rhythmic approach** The idea here is to form a habit of doing deep work for blocks of, say, 90 minutes and using a calendar to track your accomplishments.
+    * **Journalistic approach** Take any unexpected free time in your daily routine to do deep work.
+3. Focus your brain and be selective about your use of technology.
+    * **Use productive meditation** Here’s how it works:
+
+    Use moments that would otherwise be unproductive – like walking your dog, taking a shower or commuting to work – to consider a problem you need to take care of without letting your mind change subjects.
+
+    To get started, ask yourself questions that identify different issues in solving a given problem. Then, once you've landed a specific target, ask yourself action questions like, “What do I need to accomplish my goal?”
+
+    Think of it as a hardcore workout routine for your brain that will help build your focus!
+4. Scheduling both work and free time is essential to restoring energy.
+
+##### The key message in this book:
+
+**Distractions are everywhere in the modern world where multitasking has become our default state and is killing our productivity. The good news is we can take back control of our time by eliminating distractions and letting our brains focus on one task at a time.**
+
+##### Actionable advice:
+
+**The next time you feel completely exhausted at the end of an unproductive day, consider taking an “internet sabbath.”**
+
+Just take a notepad to work in which you write specific time slots when you’re allowed to use the internet and avoid using it outside these time blocks. This will increase your productivity because you’ll unconsciously want to take more advantage of the time you have allowed yourself to use the internet. You’ll be amazed at how your focus skyrockets, merely by being present when browsing the web instead of in a half-conscious state where time slips by.
+
+#### How to Become a Straight-A Student (2006)
+1. **In order to study more efficiently, manage your time and work in short, intensive bursts.**
+    </br>studies show that the optimal learning period is roughly 50 minutes, so you should work no longer than one hour before giving yourself a break.
+2. **The urge to procrastinate is unavoidable – learn to fight it!**
+    </br>One way is to keep a work progress journal, which can help prevent you from falling for your lame excuses. Here’s how it works:
+
+    When you wake up each morning, write down the day’s most important tasks: important classes, exams and even chores, like buying groceries or calling the electrician.
+
+    Then, each evening, record the tasks you’ve completed and provide an explanation for any tasks left uncompleted.
+3. **Successful studying starts with finding the right time, place and energy levels.**
+    * Study early
+    * Study in isolation
+    * Always keep energy levels high
+4. **Make the most out of your classes with smart note-taking.**
+    * Here’s an obvious study tip that will save you a lot of trouble: always go to class!
+    * For a nontechnical course, such as politics, history or philosophy, you need to record the big ideas.
+    * Technical courses, on the other hand, such as economics, engineering or mathematics, require a different approach, as there aren't any real "big ideas"
+5. **Only study what you actually need to study.**
+6. **Use the three Ps to score high in your exams: planning, proceeding and proofreading.**
+    * When you get your exam, plan what you will do before starting the actual text.
+    * Once you’ve made your plans, proceed with answering the questions in accordance with that plan.
+    * Finally, complete your exam by thoroughly proofreading it.
+7. **Finding a thesis topic that excites you is a decisive step on the path to an excellent paper.**
+8. **Finding material for your paper centers on exhaustive but strictly limited research.**
+    </br>In order to research effectively, start by outlining the important arguments you need to research, breaking your topic or thesis into general chunks.
+
+    The most important thing, however, is to you know where your cut-off is, i.e., knowing when you have all the information you need for your thesis. Any additional work is pointless.
+
+    In order to determine whether you’ve reached an adequate amount of material, you should check two things:    
+        * First, that all the topics central to your thesis have at least two good sources.
+        * Second, that you have at least one good source for any topics will be helpful for your thesis, but aren’t necessary.      
+    If you have those two things, it’s time to stop researching. No matter how much more you think you need – stop!
+9. **Actively seek inspiration in order to tell an intriguing story.**
+10. **Fill in your structure, review your essay and hand in your A+ paper.**
+
+##### The key message in this book:
+
+**Successful studying isn’t about how much time you invest in it but on the intensity and efficiency with which you do it. By applying these time management, exam-taking and paper-writing techniques, you can score higher grades while studying less and having more time to spend on things you enjoy.**
+
+##### Actionable advice:
+
+**Keep a work progress journal to smash procrastination.**
+
+Procrastination doesn’t just happen once. It happens many times, over the course of weeks, months or even years. Keep a journal of all the work you accomplish and all the times you put things off, along with your reasons for procrastinating. Pretty soon, you’ll see just how flimsy those reasons are, and you’ll be forced to re-evaluate them.
+
+**Studying in small intensive bursts saves a lot of time.**
+
+Although it may seem counterintuitive, there is just no point to working for long periods of time. A long study session leaves you drained, sluggish, and distracted. It’s far better to study in short bursts – an hour or less – and with intensity. You’ll be surprised how much you get done.
+
+
 ### Breakdown of the Snowball Principle
 
-#### Key #1: Get the fundamentals right FIRST and make them non-negotiable.
+#### Key \#1: Get the fundamentals right FIRST and make them non-negotiable.
 We are all human. And as humans, we have very similar psychological and physiological needs. There are six core areas that, barring some really bad luck, can essentially guarantee us a pretty good life if we get them to a sufficient level:
 
 1. Health: Living a long life filled with vibrant energy.
@@ -394,6 +512,9 @@ We are all human. And as humans, we have very similar psychological and physiolo
 #### Key \#3: Replace all-or-nothing sprints with a marathon mentality.
 People could effectively be geniuses if they followed the [five-hour rule](https://medium.com/accelerated-intelligence/bill-gates-warren-buffett-and-oprah-all-use-the-5-hour-rule-308f528b6363) and let knowledge compound upon itself by learning at least five hours per week.
 
+### 40% Rule
+If you are performing an taxing activity and your mind tells you you want to stop, that's only 40% of what you're capable. The body and mind is capable of much more!
+
 ### Helpful Yearly goals:
 * Learn at least one new language each year.
 * Read a technical book each quarter, then each month.
@@ -403,6 +524,8 @@ People could effectively be geniuses if they followed the [five-hour rule](https
 * Experiment with different dev environments.
 * Stay current.
 * Get wired.
+
+### The Book of Secret Knowledge([Github Repo](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md))
 
 ### General Tips:
 * Focus on being a Specialist that offers a specialised set of services to a very particular type of client.
@@ -414,8 +537,8 @@ People could effectively be geniuses if they followed the [five-hour rule](https
 With mastery comes knowledge.
 With knowledge comes strength.
 * Junior dev: Can develop with little help. (When people depend on you.)
-Mid-level dev: Can develop with no help.
-Senior dev: Can help others. (When people trust you.)
+</br>Mid-level dev: Can develop with no help.
+</br>Senior dev: Can help others. (When people trust you.)
 * 5/25 Rule: Pick 25 things to achieve in 10 years. Rank by importance. Circle top 5. Avoid remaining 20 until done with top 5.
 * If feeling depressed, remember HALT:
     * Hungry
