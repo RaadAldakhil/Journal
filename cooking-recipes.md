@@ -60,6 +60,19 @@ Add the eggs one at a time, stirring after each addition until the eggs are inco
 
 ***
 
+### Homemade Taco Seasoning
+### Ingredients
+* 1/4 C. plus 1 Tbsp. Chili Powder
+* 1 1/4 tsp. Garlic Powder
+* 1 1/4 tsp. Onion Powder
+* 1 1/4 tsp. Crushed Red Pepper Flakes
+* 1 1/4 tsp. Dried Oregano
+* 2 1/2 tsp. Paprika
+* 2 Tbsp. plus 1 1/2 tsp. Ground Cumin
+* 1 Tbsp. plus 2 tsp. Sea Salt
+* 1 Tbsp. plus 2 tsp. Black Pepper (optional)
+
+***
 ## Meat
 ### Spaghetti Bolognese
 #### Ingredients
