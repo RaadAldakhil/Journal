@@ -527,6 +527,13 @@ If you are performing an taxing activity and your mind tells you you want to sto
 * Get wired.
 
 ### The Book of Secret Knowledge([Github Repo](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md))
+### Eat that Frog by Brian Tracy
+Top lessons from the book-
+
+* Do the most difficult task first.
+* Plan every day in advance. 10 minutes spent on planning can save 1 hour of your time.
+* Prioritize everything. Make a list. Label your problems/tasks as ABCDE or 1,2,3,4,5 as per the priority.
+* Be result oriented.
 
 ### General Tips:
 * Focus on being a Specialist that offers a specialised set of services to a very particular type of client.
@@ -546,6 +553,9 @@ Senior dev: Can help others. (When people trust you.)
     * Angry
     * Lonely
     * Tired
+* **“Twice, then quit.”** The first time you want to quit your habit, do not. Push it through and do it anyway. The second time you want to quit, again don’t. Push it through once more. The third time you want to quit, you can stop.
+* Plan for a variance. If you have a habit of going to the gym daily. But you can’t go to the gym while travelling. So, you need to plan for a variance. Instead, you can plan on doing push-ups or crunches during the day.
+* Take pride in the process, not in the results. Everybody seems to be planning for a definite goal; instead, try planning for a smooth start. Remember, **well begun is half done.**
 
 
 ### Study spaces in Manchester
@@ -576,6 +586,9 @@ Senior dev: Can help others. (When people trust you.)
 * Birley firleds MMU building
 * Peter house
 * Central Library Cafe
+* Siop Shop
+* Takk MCR
+* Teacup Kitchen
 
 ## Finance
 ### Becoming a millionaire:
