@@ -1,0 +1,83 @@
+# “The Pragmatic Programmer” Is Essential Reading for Software Developers by [Bennett Garner](https://blog.usejournal.com/the-pragmatic-programmer-is-essential-reading-for-software-developers-443940b8ef9f)
+
+Writing code is a craft. Practice your skills and sharpen your tools to be the best programmer you can be.
+
+If you’ve spent any time working in or learning about software development, chances are you’ve heard of the classic book [The Pragmatic Programmer by Andrew Hunt and David Thomas.]
+
+You likely know a lot of the stories and terms from the book. Hunt and Thomas introduced the world to rubber duck debugging and code katas. They also popularized ideas like don’t repeat yourself (DRY) and early iterations of what would come to be known as agile development.
+
+So, you probably know the book or at least some of its contents.
+
+But have you read it?
+
+In this post, I’ll make the case for why every developer who’s serious about becoming good at their work should read The Pragmatic Programmer.
+
+Along the way, I’ll summarize some of the key ideas from the book, but with 320 dense pages of thoughts about how to write code in the real world, you really just have to read it for yourself.
+
+## Mindset
+You’d expect a book about coding to start by talking about code, but that’s not where Hunt and Thomas begin.
+
+Instead, they spend the first two chapters talking about philosophy, psychology, and approaches to coding. And rightly so. Before you can write beautiful code, you need to be thinking clearly, have clear expectations, and get buy-in from the people around you.
+
+If you don’t have a solid foundation of philosophy, communication, goals, and approach for your project, it’s likely to end up a mess.
+
+In the first two chapters alone, Hunt and Thomas illustrate this with great stories and analogies. They cover concepts like:
+
+Taking ownership (a la Extreme Ownership) of the code you write and the things you say you’ll deliver (p. 3)
+Building the things you can get as a stepping stone to asking for more resources — the stone soup method (p. 8)
+Delivering good software today is often better than perfect software tomorrow, so finish things and ship (p. 11)
+Early on in the book, you get immersed in how to think about software from a practical standpoint of someone working on a team with bosses and stakeholders to please.
+
+This is stuff that’s difficult to learn elsewhere, and in The Pragmatic Programmer you get it directly from two professionals with decades of experience.
+
+They’ve thought about how to think about software. This meta-analysis of the software development process is what makes this book so valuable, and why people reference it again and again.
+
+## Tools
+With all that meta-analysis out of the way, surely we’re ready to start actually talking about code?
+
+Not so fast! Any good craftsman knows that once you’ve made a plan you don’t immediately start working. First, you need to prepare your environment and your tools.
+
+“Sharpen the saw” is the classic self-improvement quote from Stephen Covey’s canonical book, The 7 Habits of Highly Effective People.
+
+Covey tells the parable of a woodcutter who, given a large tree to chop in a short amount of time, goes straight to work. “The tools I have will have to do. I must start working!” the woodworker says.
+
+Of course, because he’s working with a dull saw, the job takes twice as long as it needs to. The smart woodcutter spends the first part of any project preparing and sharpening his tools. That way, he’s more effective when it comes to the task.
+
+Hunt and Thomas believe coding is no exception. Getting your tools and environment right is key to productivity. Among their recommendations:
+
+* Get really good at a plain text editor like Vim or Emacs (pg. 73)
+* Add some custom commands and configurations to your shell and get fast at using the command line (pg. 77)
+* Use source control, like git, to make rollbacks, collaboration, and sharing easy (pg. 86)
+* Practicing the fundamentals in your coding language(s) of choice, so code flows from your fingertips without thinking
+
+## Writing Code
+Over 100 pages into the book, and we’re finally ready to start talking about code.
+
+The Pragmatic Programmer is the source of many tidbits of coding advice that you’ve probably already heard.
+
+* The concepts of “lazy” and “shy” code come from the book, writing functions that are strict about what they’ll accept and promise as little as possible in return
+* Best practices for handling errors and exceptions
+* Writing clean, thread-safe code that anticipates concurrency for large-scale applications
+* Carefully choosing and considering the tradeoffs of how you structure and store data
+* Using Big-O notation to estimate algorithm runtime
+* How to write good tests that give maximum coverage
+* When should you refactor code? What makes spending time on a refactor worth it?
+
+I can’t possibly summarize all the advice the middle 100 pages of the book delivers. It ranges through all aspects of coding, but none of the advice gets too granular or language-specific.
+
+This book was written in 1999, but despite changes in technology, most of the recommendations hold up two decades later.
+
+## Project Management
+We wrap up the code-specific section of the book, and by now there’s plenty of valuable content to finish the book right here. But Hunt and Thomas don’t stop.
+
+There’s still a hundred pages left of valuable project management and planning advice from these veteran developers.
+* Setting expectations and requirements ahead of the project
+* Getting your team to buy into the pragmatic culture
+* Writing documentation and communicating with the team and users
+
+This is the kind of advice that gets more valuable the more projects you’ve worked on. You start to realize how insightful their advice is once you have a history of working on projects that had unclear requirements or bad communication.
+
+## Constant Improvement
+The Pragmatic Programmer is one of those books you keep on your shelf as a reference. You can refer back to it many times and learn something new from it at different stages of your career.
+
+If you’re serious about becoming an expert developer, then this book is a must-read. It’s the kind of book that sets apart people who are good coders from the best of the best.
