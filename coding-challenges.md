@@ -20,13 +20,14 @@
     * [15 Threads and Locks](#15-threads-and-locks)
     * [16 Moderate](#16-moderate)
     * [17 Hard](#17-hard)
-  * [4chan  Challenges](#4chan--challenges)
+  * [4chan Challenges](#4chan-challenges)
     * [Ultra Easy Questions:](#ultra-easy-questions:)
     * [Very Easy Questions:](#very-easy-questions:)
     * [Easy Questions:](#easy-questions:)
     * [Bonus Questions:](#bonus-questions:)
     * [Technical Questions](#technical-questions)
     * [Theory:](#theory:)
+  * [More 4chan Challenges](#more-4chan-challenges)
   * [Pro/g/ramming Challenges, v4.0](#pro/g/ramming-challenges,-v4.0)
     * [Four degrees of difficulty (Easy) (Medium) (Difficult) (Fuck You)](#four-
 degrees-of-difficulty-(easy)-(medium)-(difficult)-(fuck-you))
@@ -39,7 +40,7 @@ er:-78-90,-133)
       * [Emulation/Modeling: 91-103, 145](#emulation/modeling:-91-103,-145)
       * [Games: 104-132](#games:-104-132)
     * [HOW-TO Guide](#how-to-guide)
-    
+
 ## Cracking the coding interview
 ### 1 Arrays and Strings
 1. Is Unique: Implement an algorithm to determine if a string has all unique characters. What if you
@@ -809,7 +810,7 @@ ID1, ID2 : SIMILARITY
 19, 24 : 0.14285714285714285
 ***
 
-## 4chan  Challenges
+## 4chan Challenges
 
 ### Ultra Easy Questions:
 1. Print out your name on the screen.
@@ -898,6 +899,7 @@ ID1, ID2 : SIMILARITY
 
 ***
 
+## More 4chan Challanges
 ## Pro/g/ramming Challenges, v4.0
 ### Four degrees of difficulty (Easy) (Medium) (Difficult) (Fuck You)
 ### Categories:
