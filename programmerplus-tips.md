@@ -1,6 +1,45 @@
 # ProgrammerPlus Instagram Tips
 This is a collection of tips and notes with intent of helping programmers become a better version of themselves.
 
+* [ProgrammerPlus Instagram Tips](#programmerplus-instagram-tips)
+    * [Time Management Tips](#time-management-tips)
+    * [Bad Habits To Avoid as a Programmer](#bad-habits-to-avoid-as-a-programmer
+)
+    * [Algorithms Every Programmer Should Know](#algorithms-every-programmer-sho
+uld-know)
+    * [Golden Rules for Becoming a Better ProgrammerPlus](#golden-rules-for-beco
+ming-a-better-programmerplus)
+    * [Most Popular Programming Paradigms](#most-popular-programming-paradigms)
+    * [Subjects Software Developers Should Know](#subjects-software-developers-s
+hould-know)
+    * [How to Write Clean & Maintainable Code](#how-to-write-clean-&-maintainabl
+e-code)
+    * [Data Structures Basics](#data-structures-basics)
+    * [Core Functional Programming Concepts](#core-functional-programming-concep
+ts)
+    * [Basic Concepts of OOP (Object Oriented Programming)](#basic-concepts-of-o
+op-(object-oriented-programming))
+    * [Ways to stay motivated while learning to code](#ways-to-stay-motivated-wh
+ile-learning-to-code)
+    * [Top Most Dangerous Programming mistakes](#top-most-dangerous-programming-
+mistakes)
+    * [Software Developer Job Interview tips](#software-developer-job-interview-
+tips)
+    * [Popular Software Development Methodologies](#popular-software-development
+-methodologies)
+    * [Things To Do To Land Your First Programming Job](#things-to-do-to-land-yo
+ur-first-programming-job)
+    * [Some Ways to Become a Better Programmer](#some-ways-to-become-a-better-pr
+ogrammer)
+    * [Going from junior to Senior Developer](#going-from-junior-to-senior-devel
+oper)
+    * [Steps To Become A Senior Programmer](#steps-to-become-a-senior-programmer
+)
+    * [Best Ways to Make Money Online as a Programmer](#best-ways-to-make-money-
+online-as-a-programmer)
+    * [Books Every Programmer Should Read](#books-every-programmer-should-read)
+    * [Inspiring Dennis Ritchie Quotes](#inspiring-dennis-ritchie-quotes)
+    
 ***
 
 ### Time Management Tips

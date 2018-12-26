@@ -1,5 +1,45 @@
 # Coding Challenges
 
+* [Coding Challenges](#coding-challenges)
+  * [Cracking the coding interview](#cracking-the-coding-interview)
+    * [1 Arrays and Strings](#1-arrays-and-strings)
+    * [2 Linked Lists](#2-linked-lists)
+    * [3 Stacks and Queues](#3-stacks-and-queues)
+    * [4 Trees and Graphs](#4-trees-and-graphs)
+    * [5 Bit Manipulation](#5-bit-manipulation)
+    * [6 Math and Logic Puzzles](#6-math-and-logic-puzzles)
+    * [7 Object-Oriented Design](#7-object-oriented-design)
+    * [8 Recursion and Dynamic Programming](#8-recursion-and-dynamic-programming
+)
+    * [9 System Design and Scalability](#9-system-design-and-scalability)
+    * [10 Sorting and Searching](#10-sorting-and-searching)
+    * [11 Testing](#11-testing)
+    * [12 C and C++](#12-c-and-c++)
+    * [13 Java](#13-java)
+    * [14 Databases](#14-databases)
+    * [15 Threads and Locks](#15-threads-and-locks)
+    * [16 Moderate](#16-moderate)
+    * [17 Hard](#17-hard)
+  * [4chan  Challenges](#4chan--challenges)
+    * [Ultra Easy Questions:](#ultra-easy-questions:)
+    * [Very Easy Questions:](#very-easy-questions:)
+    * [Easy Questions:](#easy-questions:)
+    * [Bonus Questions:](#bonus-questions:)
+    * [Technical Questions](#technical-questions)
+    * [Theory:](#theory:)
+  * [Pro/g/ramming Challenges, v4.0](#pro/g/ramming-challenges,-v4.0)
+    * [Four degrees of difficulty (Easy) (Medium) (Difficult) (Fuck You)](#four-
+degrees-of-difficulty-(easy)-(medium)-(difficult)-(fuck-you))
+    * [Categories:](#categories:)
+      * [Practical: 1-43, 135-139, 140-144](#practical:-1-43,-135-139,-140-144)
+      * [Algorithmic: 44-69, 134](#algorithmic:-44-69,-134)
+      * [Artificial Intelligence: 70-77](#artificial-intelligence:-70-77)
+      * [Compiler/Interpreter/Debugger: 78-90, 133](#compiler/interpreter/debugg
+er:-78-90,-133)
+      * [Emulation/Modeling: 91-103, 145](#emulation/modeling:-91-103,-145)
+      * [Games: 104-132](#games:-104-132)
+    * [HOW-TO Guide](#how-to-guide)
+    
 ## Cracking the coding interview
 ### 1 Arrays and Strings
 1. Is Unique: Implement an algorithm to determine if a string has all unique characters. What if you

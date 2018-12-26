@@ -1,5 +1,97 @@
 # Journal
 
+* [Journal](#journal)
+  * [Introduction](#introduction)
+  * [Productivity and Skills](#productivity-and-skills)
+    * [Must Know Data Structures, Algorithms, and Topics:](#must-know-data-struc
+tures,-algorithms,-and-topics:)
+    * [Coding Questions:](#coding-questions:)
+    * [Skills every developer should have besides coding skills:](#skills-every-
+developer-should-have-besides-coding-skills:)
+    * [4 Ways to Create an Algorithm:](#4-ways-to-create-an-algorithm:)
+    * [Rethink your approach to reading:](#rethink-your-approach-to-reading:)
+    * [7 Steps to avoiding procrastination](#7-steps-to-avoiding-procrastination
+)
+    * [7 Habits of Highly Effective People](#7-habits-of-highly-effective-people
+)
+    * [7 Simple habits for a more productive life:](#7-simple-habits-for-a-more-
+productive-life:)
+    * [The Four Tendancies:](#the-four-tendancies:)
+    * [John Carmack's way of learning a topic:](#john-carmack's-way-of-learning-
+a-topic:)
+    * ['Five Second Rule':](#'five-second-rule':)
+    * [Setting Goals:](#setting-goals:)
+    * [How to develop a growth mindset](#how-to-develop-a-growth-mindset)
+    * [7 Habits of Highly Effective Thinkers:](#7-habits-of-highly-effective-thi
+nkers:)
+    * [Fuller's "Forging Artifacts"](#fuller's-"forging-artifacts")
+    * [Deep work (Flow or the zone)](#deep-work-(flow-or-the-zone))
+    * [Building Self Discipline:(exercise)](#building-self-discipline:(exercise)
+)
+    * [Memorising Faster:](#memorising-faster:)
+    * [Learn more from reading (THIS, GO)](#learn-more-from-reading-(this,-go))
+    * [Take better notes over written things like books (TRAPS)](#take-better-no
+tes-over-written-things-like-books-(traps))
+    * [Take better listening/lecture notes (PLANS)](#take-better-listening/lectu
+re-notes-(plans))
+    * [Study all the notes you've taken better and review (RECAP)](#study-all-th
+e-notes-you've-taken-better-and-review-(recap))
+    * [Software Engineering Specialisations](#software-engineering-specialisatio
+ns)
+    * [Game Programmer Disciplines](#game-programmer-disciplines)
+    * [How to get a game dev job?](#how-to-get-a-game-dev-job?)
+    * [Healthy Lifestyle](#healthy-lifestyle)
+    * [Avoiding Information Overload](#avoiding-information-overload)
+    * [Develop T-shaped skill set](#develop-t-shaped-skill-set)
+    * [Interview Preparation Map](#interview-preparation-map)
+    * [10 Step Learning Process:](#10-step-learning-process:)
+    * [Types of learners:](#types-of-learners:)
+    * [Finding your calling: (two methods)](#finding-your-calling:-(two-methods)
+)
+    * [How to program deliberately](#how-to-program-deliberately)
+    * [Boy Scout](#boy-scout)
+    * [Broken Window Theory](#broken-window-theory)
+    * [Building a knowledge portfolio](#building-a-knowledge-portfolio)
+    * [Feynman Technique:(Be simple and concise)](#feynman-technique:(be-simple-
+and-concise))
+    * [Elon Musk's polymath formula:](#elon-musk's-polymath-formula:)
+    * [Cal Newport Digests](#cal-newport-digests)
+      * [So Good They Can't Ignore You (2012)](#so-good-they-can't-ignore-you-(2
+012))
+        * [The key message in this book is:](#the-key-message-in-this-book-is:)
+        * [Actionable advice from the book:](#actionable-advice-from-the-book:)
+      * [Deep Work (2016)](#deep-work-(2016))
+        * [The key message in this book:](#the-key-message-in-this-book:)
+        * [Actionable advice:](#actionable-advice:)
+      * [How to Become a Straight-A Student (2006)](#how-to-become-a-straight-a-
+student-(2006))
+        * [The key message in this book:](#the-key-message-in-this-book:)
+        * [Actionable advice:](#actionable-advice:)
+    * [Breakdown of the Snowball Principle](#breakdown-of-the-snowball-principle
+)
+        * [Key \1: Get the fundamentals right FIRST and make them non-negotiable
+.](#key-\1:-get-the-fundamentals-right-first-and-make-them-non-negotiable.)
+        * [Key \2: Have Big, Hairy, Audacious Goals (BHAGS), but be patient with
+ them.](#key-\2:-have-big,-hairy,-audacious-goals-(bhags),-but-be-patient-with-t
+hem.)
+        * [Key \3: Replace all-or-nothing sprints with a marathon mentality.](#k
+ey-\3:-replace-all-or-nothing-sprints-with-a-marathon-mentality.)
+    * [40% Rule](#40%-rule)
+    * [Helpful Yearly goals:](#helpful-yearly-goals:)
+    * [The Book of Secret Knowledge([Github Repo](https://github.com/trimstray/t
+he-book-of-secret-knowledge/blob/master/README.md))](#the-book-of-secret-knowled
+ge([github-repo](https://github.com/trimstray/the-book-of-secret-knowledge/blob/
+master/readme.md)))
+    * [Eat that Frog by Brian Tracy](#eat-that-frog-by-brian-tracy)
+    * [General Tips:](#general-tips:)
+    * [Study spaces in Manchester](#study-spaces-in-manchester)
+  * [Finance](#finance)
+    * [Becoming a millionaire:](#becoming-a-millionaire:)
+    * [How to Get Rich (without getting lucky):](#how-to-get-rich-(without-getti
+ng-lucky):)
+    * [Asymmetric Oppurtunities:](#asymmetric-oppurtunities:)
+    * [Side hustles(Passive Income):](#side-hustles(passive-income):)
+
 ## Introduction
 This journal was a book that was written by hand and has now been converted to markdown to be accessed from everywhere and allow adding and removing on the go rather than having to wait until I reach the book back home and add any new entries by hand on paper.
 

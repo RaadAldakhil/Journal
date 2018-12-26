@@ -1,5 +1,16 @@
 # How to Study Like a Harvard Student
 Taken from Sophia Chua-Rubenfeld, daughter of the Tiger Mother
+
+* [How to Study Like a Harvard Student](#how-to-study-like-a-harvard-student)
+  * [Preliminary Steps](#preliminary-steps)
+  * [General Principles](#general-principles)
+    * [Plan of Attack Phase I: Class](#plan-of-attack-phase-i:-class)
+    * [Phase II: Study Time](#phase-ii:-study-time)
+    * [Phase III: Assignments](#phase-iii:-assignments)
+    * [Phase IV: Reading Period (Review Week)](#phase-iv:-reading-period-(review
+-week))
+    * [Phase V: Exam Day](#phase-v:-exam-day)
+    
 ## Preliminary Steps
 1. Choose classes that interest you. That way studying doesn't feel like slave labor. If you don't want to learn, then I can't help you.
 2. Make some friends. See steps 12, 13, 23, 24.
