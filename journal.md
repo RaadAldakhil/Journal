@@ -99,6 +99,7 @@ Despite my preference for paper and book formats, I believe having the content o
 
 **NOTE:** The content written here is copied verbatim from the notebook, so there is no structure, flow, nor order to any of the topics, sadly.
 
+**NOTE** [Awesome list of awesome lists about awesome things](https://github.com/jonatasbaldin/awesome-awesome-awesome?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=weekly)
 
 ## Productivity and Skills
 ### Must Know Data Structures, Algorithms, and Topics:
